@@ -1,0 +1,2200 @@
+1 good morning , this is air ticket booking service center , what help you need ?
+2 i would like to book an air ticket .
+3 your contact number ?
+4 0016178701461 is my phone number .
+5 sir , which city are you going to travel to ?
+6 is AVIV .
+7 may i have your passport number , sir .
+8 483106370 .
+9 when would you like to buy ?
+10 need to leave on 11/27/2015 .
+11 where is the starting city of your trip ?
+12 i plan to start from KHN .
+13 sir , your name , please .
+14 Kevin_Williamson .
+15 ok sir , have reserved for you .
+16 thanks very much .
+17 what is the client's name ?	Kevin_Williamson	16
+18 what is the departure city ?	KHN	16
+19 what is the destination city ?	AVIV	16
+20 when does the client depart ?	11/27/2015	16
+21 what is the passport number ?	483106370	16
+22 what is the phone number ?	0016178701461	16
+1 hello , this is air ticket booking agent center . what can i do for you ?
+2 i'd like to buy a ticket .
+3 miss , passenger name , please .
+4 Stella_Wainwright .
+5 your destination city , please .
+6 buy a ticket to KBL .
+7 miss , passport number , thanks .
+8 899917359 , my passport number .
+9 the phone number , miss ?
+10 0016173976838 .
+11 your departure city , please .
+12 departure from Gander
+13 miss , the travel time is ?
+14 i'd like to go on 10/13/2018
+15 ok miss , have reserved for you .
+16 thanks very much !
+17 what is the client's name ?	Stella_Wainwright	16
+18 what is the departure city ?	Gander	16
+19 what is the destination city ?	KBL	16
+20 when does the client depart ?	10/13/2018	16
+21 what is the passport number ?	899917359	16
+22 what is the phone number ?	0016173976838	16
+1 hello , air ticket booking agent center , how can i help you ?
+2 i need to reserve a flight .
+3 ok miss , please tell me where is the starting city ?
+4 uh , ADD
+5 what is your full name , miss ?
+6 ah , my name is Wendy_Wettin .
+7 could you tell me the passport number , miss ?
+8 the passport number 264560078
+9 please tell me which city do you go to ?
+10 LIS .
+11 hello miss , we need your contact information .
+12 yeah , my phone number is 0016174187935 .
+13 ok miss , please tell me your travel time .
+14 on 07/17/2015 .
+15 now you have been booked , miss .
+16 good , thanks .
+17 what is the client's name ?	Wendy_Wettin	16
+18 what is the departure city ?	ADD	16
+19 what is the destination city ?	LIS	16
+20 when does the client depart ?	07/17/2015	16
+21 what is the passport number ?	264560078	16
+22 what is the phone number ?	0016174187935	16
+1 good afternoon , this is air ticket booking center , what services you need ?
+2 i want to make flight reservations .
+3 what is the departure city ?
+4 i start from Macao
+5 ok , what is the time ?
+6 please reserve the ticket on 01/27/2018 .
+7 where do you go ?
+8 ticket to Lagos
+9 may i have your passport number , miss .
+10 406289202
+11 miss , contact number ? thanks .
+12 0016171753258 , that is my contact number .
+13 please tell me your name .
+14 ok , name is Bella_Elizabeth
+15 now you have been booked , miss .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Bella_Elizabeth	16
+18 what is the departure city ?	Macao	16
+19 what is the destination city ?	Lagos	16
+20 when does the client depart ?	01/27/2018	16
+21 what is the passport number ?	406289202	16
+22 what is the phone number ?	0016171753258	16
+1 good morning , this is air ticket booking agent center .
+2 hi , please help me book an air ticket .
+3 get it , your phone number ?
+4 my phone number would be 0016174730497
+5 where are you traveling to ?
+6 go to BNJ .
+7 please tell me your passport number , miss .
+8 uh , is 242478898 .
+9 may i have your name , please ?
+10 name is Gloria_Wainwright .
+11 ok , please tell me where is the starting city ?
+12 BGW .
+13 miss , the travel time is ?
+14 i need a flight on 09/20/2015
+15 ok miss , have reserved for you .
+16 ah , ok , thanks .
+17 what is the client's name ?	Gloria_Wainwright	16
+18 what is the departure city ?	BGW	16
+19 what is the destination city ?	BNJ	16
+20 when does the client depart ?	09/20/2015	16
+21 what is the passport number ?	242478898	16
+22 what is the phone number ?	0016174730497	16
+1 hi , this is air ticket booking service center , may i help you ?
+2 i would like to buy a plane ticket .
+3 hello miss , i need your passport number .
+4 the passport number is 624781102 .
+5 what is the departure city ?
+6 i will start from Little_Rock .
+7 please let me know your name .
+8 hi , my name is Sally_Tree .
+9 miss , what date would you like me to book this plane ticket for ?
+10 i will go on 06/27/2017 .
+11 what is your phone number , miss ?
+12 my contact number 0016172228742
+13 to which city ?
+14 ticket to TPE
+15 now you have been booked , miss .
+16 thanks very much !
+17 what is the client's name ?	Sally_Tree	16
+18 what is the departure city ?	Little_Rock	16
+19 what is the destination city ?	TPE	16
+20 when does the client depart ?	06/27/2017	16
+21 what is the passport number ?	624781102	16
+22 what is the phone number ?	0016172228742	16
+1 hello , air ticket booking agent center , how can i help you ?
+2 i'd like to buy a ticket .
+3 miss , when do you want to travel ?
+4 i want to go on 03/25/2016 .
+5 i see , please tell me your passport number , miss .
+6 359712200 is my passport number .
+7 may i have your name , please ?
+8 April_Sandall is my name
+9 please tell me where do you take off , miss ?
+10 Dhahran .
+11 get it miss , please tell me your phone number .
+12 my contact number is 0016178677893
+13 where are you flying to ?
+14 flight to Nauru .
+15 i have you booked on a flight .
+16 ha , thanks for your service !
+17 what is the client's name ?	April_Sandall	16
+18 what is the departure city ?	Dhahran	16
+19 what is the destination city ?	Nauru	16
+20 when does the client depart ?	03/25/2016	16
+21 what is the passport number ?	359712200	16
+22 what is the phone number ?	0016178677893	16
+1 good afternoon , this is air ticket booking agent center .
+2 i want to make flight reservations .
+3 may i have your passport number , miss .
+4 425275178
+5 what city are you flying to ?
+6 Glasgow .
+7 what's your name , miss ?
+8 ok , name is Sally_Pond
+9 please tell me your departure city , miss .
+10 ah , is Manama .
+11 miss , when are you leaving ?
+12 uh , the travel time is 01/28/2014 .
+13 get it miss , your phone number ?
+14 0016177807497 , my phone number .
+15 ok miss , i was able to find an inexpensive flight for you .
+16 thanks very much .
+17 what is the client's name ?	Sally_Pond	16
+18 what is the departure city ?	Manama	16
+19 what is the destination city ?	Glasgow	16
+20 when does the client depart ?	01/28/2014	16
+21 what is the passport number ?	425275178	16
+22 what is the phone number ?	0016177807497	16
+1 good morning , this is air ticket booking service center , what help you need ?
+2 i'd like to buy a ticket .
+3 please tell me your destination city , miss .
+4 i'm leaving for Dar_Es_Salaam
+5 please tell me where do you take off , miss ?
+6 TPE .
+7 please tell me when do you want to go , miss ?
+8 i'd like to book a flight on 08/24/2017 .
+9 may i have your phone number , thanks .
+10 uh , 0016172217044
+11 miss , please tell me your name , thanks very much .
+12 the name is Cathy_Smythe .
+13 miss , your passport number , please .
+14 my passport number is 462992783 .
+15 we have reserved for you .
+16 ah , ok , thanks .
+17 what is the client's name ?	Cathy_Smythe	16
+18 what is the departure city ?	TPE	16
+19 what is the destination city ?	Dar_Es_Salaam	16
+20 when does the client depart ?	08/24/2017	16
+21 what is the passport number ?	462992783	16
+22 what is the phone number ?	0016172217044	16
+1 good afternoon , this is air ticket booking agent center . what can i do for you ?
+2 i need to book an air ticket .
+3 please tell me your contact information .
+4 my phone number is 0016172543277 .
+5 please tell me where do you take off , miss ?
+6 Cairns .
+7 what's your name ?
+8 name is Ally_Robinson .
+9 please tell me the passport number , miss .
+10 392100573 .
+11 when would you like to book the ticket , miss ?
+12 the travel date is 01/27/2014 .
+13 which airport of your destination , miss ?
+14 the destination city is SJO .
+15 well , i have you booked on a flight that will fit your schedule .
+16 thanks very much .
+17 what is the client's name ?	Ally_Robinson	16
+18 what is the departure city ?	Cairns	16
+19 what is the destination city ?	SJO	16
+20 when does the client depart ?	01/27/2014	16
+21 what is the passport number ?	392100573	16
+22 what is the phone number ?	0016172543277	16
+1 hello , i am the air ticket booking agent , what services you need ?
+2 i want to make plane reservations .
+3 sir , when are you going ?
+4 05/23/2017 .
+5 your destination city , please .
+6 plane for MLW .
+7 what is the user name , sir ?
+8 yeah , i am Lucky_Henry .
+9 please tell me your contact number , sir .
+10 0016172165119
+11 sir , may i have your passport number , please ?
+12 the number is 411892623
+13 sir , where do you go ?
+14 starting in Wenzhou .
+15 ok sir , it's done .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Lucky_Henry	16
+18 what is the departure city ?	Wenzhou	16
+19 what is the destination city ?	MLW	16
+20 when does the client depart ?	05/23/2017	16
+21 what is the passport number ?	411892623	16
+22 what is the phone number ?	0016172165119	16
+1 hello , this is air ticket booking agent center .
+2 yeah , i would like to make a flight booking .
+3 where do you take off ?
+4 i'm going to start from Nanchang .
+5 what is the name of the passenger , miss ?
+6 Yolanda_Plimmer is my name
+7 could you tell me the passport number , miss ?
+8 my passport number is 165190679 .
+9 please tell me your destination city .
+10 my final destination is DOH .
+11 what's your phone number , miss ?
+12 0016172684328 .
+13 when would you like to buy ?
+14 11/17/2017 .
+15 we have reserved for you , miss .
+16 ha , thanks for your service !
+17 what is the client's name ?	Yolanda_Plimmer	16
+18 what is the departure city ?	Nanchang	16
+19 what is the destination city ?	DOH	16
+20 when does the client depart ?	11/17/2017	16
+21 what is the passport number ?	165190679	16
+22 what is the phone number ?	0016172684328	16
+1 good afternoon , i am the air ticket booking agent , what services you need ?
+2 hello , i need to reserve a flight .
+3 what is the departure city , sir ?
+4 starting in PENH .
+5 ok , what is the time ?
+6 on 10/16/2014 .
+7 please tell me your contact information sir .
+8 0016177452678 is my phone number .
+9 please let me know your name , sir .
+10 Albert_Jones .
+11 which airport of your destination , sir ?
+12 ticket to DXB
+13 what is your passport number , sir ?
+14 uh , is 303568843 .
+15 we have reserved for you .
+16 ah , ok , thanks .
+17 what is the client's name ?	Albert_Jones	16
+18 what is the departure city ?	PENH	16
+19 what is the destination city ?	DXB	16
+20 when does the client depart ?	10/16/2014	16
+21 what is the passport number ?	303568843	16
+22 what is the phone number ?	0016177452678	16
+1 good afternoon , this is air ticket booking service center , may i help you ?
+2 i would like to buy a plane ticket .
+3 please tell me your name .
+4 Sherry_Parker .
+5 ok , please tell me your travel time .
+6 i am making a reservation for 01/17/2018
+7 miss , may i have your passport number , please ?
+8 the number is 737464706
+9 ok , please tell me where is the starting city ?
+10 take off from Kansas_City .
+11 miss , may i have your phone number ?
+12 0016171716794
+13 where do you go ?
+14 buy a ticket to BWN .
+15 ok miss , have reserved for you .
+16 well , good , thanks very much .
+17 what is the client's name ?	Sherry_Parker	16
+18 what is the departure city ?	Kansas_City	16
+19 what is the destination city ?	BWN	16
+20 when does the client depart ?	01/17/2018	16
+21 what is the passport number ?	737464706	16
+22 what is the phone number ?	0016171716794	16
+1 good morning , this is air ticket booking center , what services you need ?
+2 hello , i want to reserve a seat .
+3 miss , please tell me your name .
+4 hi , my name is Leslie_Parker .
+5 which city are you going to travel to ?
+6 go to Edinburgh .
+7 please tell me your departure city , miss .
+8 my departure city is Nanchang
+9 the phone number ?
+10 ah , 0016178010018
+11 miss , the passenger's passport number is ?
+12 ah , is 223113078 .
+13 when would you like to book the ticket ?
+14 i want to fly on 11/16/2014 .
+15 ok , it's done .
+16 ok , thank you .
+17 what is the client's name ?	Leslie_Parker	16
+18 what is the departure city ?	Nanchang	16
+19 what is the destination city ?	Edinburgh	16
+20 when does the client depart ?	11/16/2014	16
+21 what is the passport number ?	223113078	16
+22 what is the phone number ?	0016178010018	16
+1 good morning , this is air ticket booking agent center .
+2 i need to make plane reservations .
+3 where do you take off ?
+4 the departure is NIM .
+5 can you please tell me your telephone number ?
+6 the phone number is 0016173538226
+7 what is your full name , sir ?
+8 ah , my name is Quinn_Edward .
+9 which airport of your destination ?
+10 to SAL .
+11 could you tell me the passport number , sir ?
+12 my passport number is 541755434 .
+13 what date would you like me to book this plane ticket for ?
+14 i want to fly on 10/24/2013 .
+15 ok , have reserved for you .
+16 ok , thank you .
+17 what is the client's name ?	Quinn_Edward	16
+18 what is the departure city ?	NIM	16
+19 what is the destination city ?	SAL	16
+20 when does the client depart ?	10/24/2013	16
+21 what is the passport number ?	541755434	16
+22 what is the phone number ?	0016173538226	16
+1 good afternoon , air ticket booking center , what can i do for you ?
+2 hello , i want to reserve a seat .
+3 miss , the passenger's passport number is ?
+4 uh , is 685816692 .
+5 ok , what is the time ?
+6 03/26/2018 .
+7 please tell me your contact number , miss .
+8 hmm , my phone number is 0016177452847
+9 miss , your departure city , please .
+10 i'm going to start from Dublin .
+11 miss , what is the destination city ?
+12 to Aden .
+13 may i know your name , miss ?
+14 Elaine_Wood .
+15 i have you booked on a flight .
+16 so fast , thanks very much .
+17 what is the client's name ?	Elaine_Wood	16
+18 what is the departure city ?	Dublin	16
+19 what is the destination city ?	Aden	16
+20 when does the client depart ?	03/26/2018	16
+21 what is the passport number ?	685816692	16
+22 what is the phone number ?	0016177452847	16
+1 hello , this is air ticket booking agent center . what can i do for you ?
+2 i want to make plane reservations .
+3 sir , where are you flying to ?
+4 the destination city is Seattle .
+5 your name , please .
+6 Kris_Jones
+7 ok , please tell me where is the starting city ?
+8 flight from SJU
+9 sir , when do you want to go ?
+10 uh , the travel time is 09/14/2018 .
+11 may i have your cell phone number , sir ?
+12 is 0016177307547 .
+13 please tell me the passport number , sir .
+14 524842231 .
+15 ok , have reserved for you .
+16 good , thanks .
+17 what is the client's name ?	Kris_Jones	16
+18 what is the departure city ?	SJU	16
+19 what is the destination city ?	Seattle	16
+20 when does the client depart ?	09/14/2018	16
+21 what is the passport number ?	524842231	16
+22 what is the phone number ?	0016177307547	16
+1 good afternoon , air ticket booking center , what can i do for you ?
+2 i'd like to buy a ticket .
+3 which airport of your destination , sir ?
+4 go to Rio_De_Janeiro .
+5 which city are you going to take off from ?
+6 i will start from Auckland .
+7 hello sir , i need your passport number .
+8 512345743 , my passport number .
+9 tell me your travel time , thanks .
+10 i want to go on 01/27/2017 .
+11 sir , can you please tell me your name ?
+12 i am Jonny_Ann .
+13 please tell me your phone number , sir .
+14 uh , 0016173250132
+15 ok , i was able to find an inexpensive flight for you .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Jonny_Ann	16
+18 what is the departure city ?	Auckland	16
+19 what is the destination city ?	Rio_De_Janeiro	16
+20 when does the client depart ?	01/27/2017	16
+21 what is the passport number ?	512345743	16
+22 what is the phone number ?	0016173250132	16
+1 hello , i am the air ticket booking agent , what services you need ?
+2 yeah , i need to book an air ticket .
+3 hello sir , i need your passport number .
+4 491009318 .
+5 please tell me your departure city , sir .
+6 i plan to start from LFW .
+7 sir , may i have your phone number ?
+8 the number is 0016176858479
+9 could you please tell me your name .
+10 call me Vin_Eberhardt
+11 ok , please tell me your travel time .
+12 i'd like to book a flight on 01/24/2014 .
+13 ok , please tell me where is the destination city ?
+14 i want to book a flight to Hamberg
+15 ok sir , have reserved for you .
+16 so fast , thanks very much .
+17 what is the client's name ?	Vin_Eberhardt	16
+18 what is the departure city ?	LFW	16
+19 what is the destination city ?	Hamberg	16
+20 when does the client depart ?	01/24/2014	16
+21 what is the passport number ?	491009318	16
+22 what is the phone number ?	0016176858479	16
+1 good afternoon , this is air ticket booking service center , what help you need ?
+2 i need to make plane reservations .
+3 sir , may i have your passport number , please ?
+4 uh , is 852779711 .
+5 sir , contact number ? thanks .
+6 the phone number is 0016175200493 .
+7 where are you traveling to , sir ?
+8 buy a ticket to DFW .
+9 sir , when do you want to go ?
+10 i want to fly on 09/28/2015 .
+11 can you please tell me your name ?
+12 Ken_Graham
+13 where is the starting city of your trip ?
+14 Haikou .
+15 we have reserved for you , sir .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Ken_Graham	16
+18 what is the departure city ?	Haikou	16
+19 what is the destination city ?	DFW	16
+20 when does the client depart ?	09/28/2015	16
+21 what is the passport number ?	852779711	16
+22 what is the phone number ?	0016175200493	16
+1 hello , this is air ticket booking agent center .
+2 hello , i need to book a plane ticket .
+3 sir , where do you go ?
+4 my departure city is OSA
+5 what is your phone number , sir ?
+6 contact number 0016177359383
+7 what is your destination ?
+8 is CBR .
+9 when do you want to travel ?
+10 the travel date is 05/14/2018 .
+11 please let me know your name .
+12 call me Michael_Johnson
+13 i see , please tell me your passport number , sir .
+14 ok , my passport number is 289496105
+15 ok sir , have reserved for you .
+16 thanks very much !
+17 what is the client's name ?	Michael_Johnson	16
+18 what is the departure city ?	OSA	16
+19 what is the destination city ?	CBR	16
+20 when does the client depart ?	05/14/2018	16
+21 what is the passport number ?	289496105	16
+22 what is the phone number ?	0016177359383	16
+1 good morning , this is air ticket booking service center , what help you need ?
+2 hi , please help me book an air ticket .
+3 please tell me your destination city , miss .
+4 the destination city is Geneva .
+5 may i have your passport number , miss .
+6 ok , the number is 895186758 .
+7 where do you take off ?
+8 ticket starting in ORLEANS .
+9 your name , miss ?
+10 yeah , i am Laney_Nixon .
+11 tell me your travel time , thanks .
+12 i'd like to go on 11/28/2018
+13 miss , may i have your phone number , thanks .
+14 my contact number 0016176488094
+15 well miss , i have you booked on a flight that will fit your schedule .
+16 ok , thank you .
+17 what is the client's name ?	Laney_Nixon	16
+18 what is the departure city ?	ORLEANS	16
+19 what is the destination city ?	Geneva	16
+20 when does the client depart ?	11/28/2018	16
+21 what is the passport number ?	895186758	16
+22 what is the phone number ?	0016176488094	16
+1 hi , air ticket booking center , what can i do for you ?
+2 please make a reservation for me .
+3 please tell me your contact information miss .
+4 the phone number 0016172002251
+5 please let me know your name .
+6 sure , i am Debbie_Pond
+7 where is the starting city of your trip ?
+8 the flight taking off from Canberra .
+9 what is your passport number , miss ?
+10 is 713635053
+11 what date will you be traveling , miss ?
+12 uh , the travel time is 05/21/2017 .
+13 miss , where do you go ?
+14 air ticket to HAM .
+15 now you have been booked .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Debbie_Pond	16
+18 what is the departure city ?	Canberra	16
+19 what is the destination city ?	HAM	16
+20 when does the client depart ?	05/21/2017	16
+21 what is the passport number ?	713635053	16
+22 what is the phone number ?	0016172002251	16
+1 good morning , this is air ticket booking service center , may i help you ?
+2 hi , i want to make flight reservations .
+3 which city are you going to take off from ?
+4 ah , is UIO .
+5 ok miss , please tell me your phone number , thanks very much .
+6 0016172766471 , that is my contact number .
+7 your name , please .
+8 call me Alexis_Anjou
+9 what city are you flying to ?
+10 DFW .
+11 ok miss , what is the date ?
+12 01/24/2016 .
+13 what is your passport number , miss ?
+14 ah , is 807885515 .
+15 ok miss , the ticket has been reserved for you .
+16 thanks very much
+17 what is the client's name ?	Alexis_Anjou	16
+18 what is the departure city ?	UIO	16
+19 what is the destination city ?	DFW	16
+20 when does the client depart ?	01/24/2016	16
+21 what is the passport number ?	807885515	16
+22 what is the phone number ?	0016172766471	16
+1 good afternoon , this is air ticket booking service center , what help you need ?
+2 i want to make flight reservations .
+3 miss , passport number , please .
+4 the passport number is 836478787 .
+5 may i have your phone number , thanks .
+6 uh , 0016178332576
+7 passenger name , please .
+8 Olivia_Smith
+9 which airport of your destination , miss ?
+10 to SAO .
+11 what is the departure city ?
+12 my departure city is Phoenix
+13 miss , when are you going ?
+14 i am making a reservation for 07/18/2018
+15 ok , have reserved for you .
+16 ha , thanks for your service !
+17 what is the client's name ?	Olivia_Smith	16
+18 what is the departure city ?	Phoenix	16
+19 what is the destination city ?	SAO	16
+20 when does the client depart ?	07/18/2018	16
+21 what is the passport number ?	836478787	16
+22 what is the phone number ?	0016178332576	16
+1 good morning , this is air ticket booking center , what services you need ?
+2 i want to reserve a seat .
+3 miss , which city are you going to travel to ?
+4 i want go to DFW
+5 get it , what is your passport number , miss ?
+6 716922308 .
+7 please let me know your name , thanks .
+8 ok , name is Mary_Nixon
+9 the phone number , miss ?
+10 my contact number is 0016177618669
+11 miss , where is the starting city of your trip ?
+12 Belgrade
+13 tell me your travel time , thanks .
+14 i need a flight on 12/19/2016
+15 ok miss , the ticket has been reserved for you .
+16 ah , ok , thanks .
+17 what is the client's name ?	Mary_Nixon	16
+18 what is the departure city ?	Belgrade	16
+19 what is the destination city ?	DFW	16
+20 when does the client depart ?	12/19/2016	16
+21 what is the passport number ?	716922308	16
+22 what is the phone number ?	0016177618669	16
+1 good afternoon , i am the air ticket booking agent , what services you need ?
+2 i want to make flight reservations .
+3 miss , where do you go ?
+4 ACC
+5 please tell me your departure city .
+6 ah , is FOC .
+7 ok miss , your passport number ?
+8 ok , my passport number is 487057736
+9 name ?
+10 Fiona_Pond .
+11 the travel time is ?
+12 10/31/2018 is ok .
+13 please tell me your phone number .
+14 the phone number 0016173878785 .
+15 ok , have reserved for you .
+16 thanks very much !
+17 what is the client's name ?	Fiona_Pond	16
+18 what is the departure city ?	FOC	16
+19 what is the destination city ?	ACC	16
+20 when does the client depart ?	10/31/2018	16
+21 what is the passport number ?	487057736	16
+22 what is the phone number ?	0016173878785	16
+1 hello , this is air ticket booking agent center . what can i do for you ?
+2 hi , please help me book an air ticket .
+3 miss , when would you like to buy ?
+4 i am making a reservation for 10/27/2015
+5 could you please tell me your name .
+6 the name is Cynthia_Tree .
+7 ok miss , please tell me your passport number , thanks very much .
+8 the number is 573954949 .
+9 your destination city , please .
+10 going to CTU
+11 ok , please tell me where is the starting city ?
+12 i'm going to start from LFW .
+13 ok miss , please tell me your phone number , thanks very much .
+14 my contact number is 0016172149535
+15 we have reserved for you , miss .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Cynthia_Tree	16
+18 what is the departure city ?	LFW	16
+19 what is the destination city ?	CTU	16
+20 when does the client depart ?	10/27/2015	16
+21 what is the passport number ?	573954949	16
+22 what is the phone number ?	0016172149535	16
+1 good afternoon , this is air ticket booking service center , what help you need ?
+2 hi , please help me book an air ticket .
+3 please tell me your departure city , sir .
+4 starting in LIS .
+5 what's your phone number , sir ?
+6 my contact number 0016171903803
+7 what city are you flying to ?
+8 go to PIT .
+9 your name , please .
+10 is Benjamin_Jones .
+11 ok sir , your passport number ?
+12 ok , my passport number is 160079953
+13 sir , when will you be leaving ?
+14 12/30/2014
+15 we have reserved for you , sir .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Benjamin_Jones	16
+18 what is the departure city ?	LIS	16
+19 what is the destination city ?	PIT	16
+20 when does the client depart ?	12/30/2014	16
+21 what is the passport number ?	160079953	16
+22 what is the phone number ?	0016171903803	16
+1 good morning , this is air ticket booking service center , what help you need ?
+2 please make a reservation for me .
+3 miss , the passenger's passport number is ?
+4 776206710 .
+5 please let me know your name .
+6 ok , Laura_Newton
+7 we need to know your phone number , miss .
+8 is 0016176546748 .
+9 ok , what is the time ?
+10 05/31/2017
+11 what is the departure city , miss ?
+12 STL .
+13 what is your destination ?
+14 i'm leaving for JUAN
+15 ok miss , have reserved for you .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Laura_Newton	16
+18 what is the departure city ?	STL	16
+19 what is the destination city ?	JUAN	16
+20 when does the client depart ?	05/31/2017	16
+21 what is the passport number ?	776206710	16
+22 what is the phone number ?	0016176546748	16
+1 good afternoon , this is air ticket booking agent center . what can i do for you ?
+2 i would like to book an air ticket .
+3 hello , we need your contact information .
+4 the number is 0016175601153
+5 which city are you going to take off from ?
+6 i plan to start from PDX .
+7 sir , when would you like to buy ?
+8 i am making a reservation for 06/18/2014
+9 please tell me the passport number , sir .
+10 uh , is 510791572 .
+11 which airport of your destination ?
+12 ticket to Kuching
+13 what is the name of the passenger , sir ?
+14 Jesus_Wright .
+15 we have reserved for you .
+16 so fast , thanks very much .
+17 what is the client's name ?	Jesus_Wright	16
+18 what is the departure city ?	PDX	16
+19 what is the destination city ?	Kuching	16
+20 when does the client depart ?	06/18/2014	16
+21 what is the passport number ?	510791572	16
+22 what is the phone number ?	0016175601153	16
+1 good afternoon , air ticket booking center , what can i do for you ?
+2 i need to make plane reservations .
+3 get it , what is your passport number , miss ?
+4 the number 332556590
+5 could you please tell me your name , miss .
+6 my name is Xochitl_Parker .
+7 miss , where do you go ?
+8 i need to fly to CAY
+9 your departure city , please .
+10 Orlando
+11 your contact number , miss ?
+12 0016175506077 .
+13 when do you want to travel ?
+14 i plan to leave on 01/17/2017 .
+15 ok , the ticket has been reserved for you .
+16 ha , thanks for your service !
+17 what is the client's name ?	Xochitl_Parker	16
+18 what is the departure city ?	Orlando	16
+19 what is the destination city ?	CAY	16
+20 when does the client depart ?	01/17/2017	16
+21 what is the passport number ?	332556590	16
+22 what is the phone number ?	0016175506077	16
+1 good afternoon , this is air ticket booking center , what services you need ?
+2 i would like to buy a plane ticket .
+3 please tell me your contact number , sir .
+4 my phone number would be 0016178228599
+5 where do you go ?
+6 my final destination is Dalian .
+7 could you tell me the passport number , sir ?
+8 618116047 .
+9 please tell me your departure city , sir .
+10 Cotonou .
+11 sir , may i have your name , please ?
+12 ah , my name is Shirley_Brown .
+13 the travel time is ?
+14 need to leave on 09/23/2014 .
+15 sir , i have you booked on a flight .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Shirley_Brown	16
+18 what is the departure city ?	Cotonou	16
+19 what is the destination city ?	Dalian	16
+20 when does the client depart ?	09/23/2014	16
+21 what is the passport number ?	618116047	16
+22 what is the phone number ?	0016178228599	16
+1 good morning , this is air ticket booking service center , may i help you ?
+2 please make a reservation for me .
+3 hello sir , i need your phone number .
+4 0016178504670
+5 please tell me the passenger's passport number , sir .
+6 549507071
+7 please tell me where do you take off ?
+8 CCS
+9 what's your name ?
+10 i'm John_Graham
+11 when are you going ?
+12 on 08/19/2018 .
+13 ok , please tell me where is the destination city ?
+14 Mogadishu is my destination
+15 done , the ticket has been reserved for you , sir .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	John_Graham	16
+18 what is the departure city ?	CCS	16
+19 what is the destination city ?	Mogadishu	16
+20 when does the client depart ?	08/19/2018	16
+21 what is the passport number ?	549507071	16
+22 what is the phone number ?	0016178504670	16
+1 hello , this is air ticket booking agent center .
+2 i need to book an air ticket .
+3 please tell me where do you take off , sir ?
+4 i may start from Dalian
+5 hello sir , we need your contact information .
+6 uh ，is 0016177518643 .
+7 where do you go ?
+8 ORL
+9 please tell me when do you want to go , sir ?
+10 i am making a reservation for 05/20/2014
+11 what is your name , sir ?
+12 sure , i am Carlyle_Norman
+13 well sir , your passport number , please .
+14 213117622 , that is my number .
+15 ok , i was able to find an inexpensive flight for you .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Carlyle_Norman	16
+18 what is the departure city ?	Dalian	16
+19 what is the destination city ?	ORL	16
+20 when does the client depart ?	05/20/2014	16
+21 what is the passport number ?	213117622	16
+22 what is the phone number ?	0016177518643	16
+1 good afternoon , this is air ticket booking agent center . what can i do for you ?
+2 hi , please help me book an air ticket .
+3 may i have your phone number ?
+4 my cell number is 0016171224718
+5 what is your travel date , sir ?
+6 the travel date is 09/24/2013 .
+7 what city are you flying to , sir ?
+8 Barcelona .
+9 hello sir , can i have your name ?
+10 Lance_Henry .
+11 get it , what is your passport number , sir ?
+12 213413079 , my passport number .
+13 sir , where is the starting city of your trip ?
+14 Las_Vegas
+15 well sir , i have you booked on a flight that will fit your schedule .
+16 good , thanks .
+17 what is the client's name ?	Lance_Henry	16
+18 what is the departure city ?	Las_Vegas	16
+19 what is the destination city ?	Barcelona	16
+20 when does the client depart ?	09/24/2013	16
+21 what is the passport number ?	213413079	16
+22 what is the phone number ?	0016171224718	16
+1 hello , this is air ticket booking agent center . what can i do for you ?
+2 i need to reserve a flight .
+3 please tell me when do you want to go , miss ?
+4 09/25/2014
+5 ok miss , please tell me where is the destination city ?
+6 Cairo .
+7 miss , need your passport number , thanks .
+8 451237888 .
+9 hello miss , we need your contact information .
+10 yeah , my phone number is 0016173666877 .
+11 please tell me your name , thanks very much .
+12 ok , name is Christina_Lake
+13 please tell me your departure city .
+14 take off from HAN .
+15 ok miss , it's done .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Christina_Lake	16
+18 what is the departure city ?	HAN	16
+19 what is the destination city ?	Cairo	16
+20 when does the client depart ?	09/25/2014	16
+21 what is the passport number ?	451237888	16
+22 what is the phone number ?	0016173666877	16
+1 good morning , this is air ticket booking service center , what help you need ?
+2 i want to reserve a seat .
+3 your departure city , please .
+4 Toronto
+5 your contact number , sir ?
+6 hmm , my phone number is 0016176939947
+7 name , sir ?
+8 ah , my name is Joshua_Wright .
+9 when do you want to go ?
+10 i want to fly on 01/22/2015 .
+11 sir , need your passport number , thanks .
+12 895502384 .
+13 what city are you flying to ?
+14 Kuala_Lunpur
+15 we have reserved for you , sir .
+16 ha , thanks for your service !
+17 what is the client's name ?	Joshua_Wright	16
+18 what is the departure city ?	Toronto	16
+19 what is the destination city ?	Kuala_Lunpur	16
+20 when does the client depart ?	01/22/2015	16
+21 what is the passport number ?	895502384	16
+22 what is the phone number ?	0016176939947	16
+1 good morning , this is air ticket booking service center , may i help you ?
+2 yeah , i would like to make a flight reservation .
+3 ok sir , please tell me your travel time .
+4 i am making a reservation for 09/25/2014
+5 may i have your cell phone number ?
+6 my contact number 0016176260360
+7 what should i call you ?
+8 Jeff_Jones
+9 sir , your passport number , please .
+10 uh , is 869827783 .
+11 what is the departure city , sir ?
+12 my departure city is BNJ
+13 what city are you flying to ?
+14 to ORLEANS .
+15 ok sir , the ticket has been reserved for you .
+16 ah , ok , thanks .
+17 what is the client's name ?	Jeff_Jones	16
+18 what is the departure city ?	BNJ	16
+19 what is the destination city ?	ORLEANS	16
+20 when does the client depart ?	09/25/2014	16
+21 what is the passport number ?	869827783	16
+22 what is the phone number ?	0016176260360	16
+1 good morning , this is air ticket booking service center , what help you need ?
+2 hi , please help me book an air ticket .
+3 what is your phone number ?
+4 0016172929779 .
+5 which airport of your departure ?
+6 the flight taking off from FTL .
+7 what date will you be traveling on ?
+8 i want to go on 08/19/2014 .
+9 what is the name of the passenger ?
+10 name is Rita_George .
+11 please tell me your destination city .
+12 OKA
+13 miss , your passport number , please .
+14 is 186138768
+15 ok miss , the ticket has been reserved for you .
+16 thanks very much
+17 what is the client's name ?	Rita_George	16
+18 what is the departure city ?	FTL	16
+19 what is the destination city ?	OKA	16
+20 when does the client depart ?	08/19/2014	16
+21 what is the passport number ?	186138768	16
+22 what is the phone number ?	0016172929779	16
+1 hello , this is air ticket booking agent center .
+2 hello , i want to reserve a seat .
+3 please tell me when do you want to go , miss ?
+4 please reserve the ticket on 05/22/2015 .
+5 well miss , your passport number , please .
+6 862126928 , that is my number .
+7 where are you traveling to ?
+8 my final destination is Salisbury .
+9 miss , which city are you going to take off from ?
+10 the departure is STO .
+11 hello , we need your contact information .
+12 uh , 0016172573395
+13 what is your name , please ?
+14 my full name is Jasmine_Jordan
+15 ok , i was able to find an inexpensive flight for you .
+16 thanks very much
+17 what is the client's name ?	Jasmine_Jordan	16
+18 what is the departure city ?	STO	16
+19 what is the destination city ?	Salisbury	16
+20 when does the client depart ?	05/22/2015	16
+21 what is the passport number ?	862126928	16
+22 what is the phone number ?	0016172573395	16
+1 hi , this is air ticket booking service center , what help you need ?
+2 hello , i need to book a plane ticket .
+3 miss , when do you want to travel ?
+4 i want to fly on 06/26/2015 .
+5 could you please tell me your name , miss .
+6 hi , my name is Sylvia_Smith .
+7 may i ask where is your destination city ?
+8 my final destination is YEA .
+9 miss , the passenger's passport number is ?
+10 508980160
+11 get it , please tell me your phone number .
+12 my phone number is 0016174432669 .
+13 where is the starting city of your trip ?
+14 PEN
+15 well , i have you booked on a flight that will fit your schedule .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Sylvia_Smith	16
+18 what is the departure city ?	PEN	16
+19 what is the destination city ?	YEA	16
+20 when does the client depart ?	06/26/2015	16
+21 what is the passport number ?	508980160	16
+22 what is the phone number ?	0016174432669	16
+1 good afternoon , this is air ticket booking agent center . what can i do for you ?
+2 yeah , i would like to make a flight reservation .
+3 what's your phone number , sir ?
+4 the phone number 0016174552208
+5 sir , please tell me which city do you go to ?
+6 Stuttgart
+7 sir , where do you take off ?
+8 the flight taking off from Beirut .
+9 what is your name ?
+10 Joshua_Street
+11 sir , when do you want to go ?
+12 i will go on 03/25/2015 .
+13 please tell me the passport number , sir .
+14 ok , the number is 708490119 .
+15 now you have been booked , sir .
+16 wonderful , thank you .
+17 what is the client's name ?	Joshua_Street	16
+18 what is the departure city ?	Beirut	16
+19 what is the destination city ?	Stuttgart	16
+20 when does the client depart ?	03/25/2015	16
+21 what is the passport number ?	708490119	16
+22 what is the phone number ?	0016174552208	16
+1 good morning , this is air ticket booking service center , may i help you ?
+2 yeah , i'd like to reserve a flight .
+3 miss , when will you be leaving ?
+4 on 10/18/2017 .
+5 miss , passport number , please .
+6 the passport number is 294105609 .
+7 get it , your phone number ?
+8 0016172805810
+9 please tell me your name .
+10 Nancy_Short .
+11 where do you take off ?
+12 NKG .
+13 which airport of your destination , miss ?
+14 i want go to LAX
+15 ok miss , it's done .
+16 ha , thanks for your service !
+17 what is the client's name ?	Nancy_Short	16
+18 what is the departure city ?	NKG	16
+19 what is the destination city ?	LAX	16
+20 when does the client depart ?	10/18/2017	16
+21 what is the passport number ?	294105609	16
+22 what is the phone number ?	0016172805810	16
+1 good morning , this is air ticket booking service center , what help you need ?
+2 yeah , i would like to make a flight booking .
+3 miss , where is the starting city of your trip ?
+4 i'm going to start from Dussdolf .
+5 please tell me the passenger's passport number , miss .
+6 the passport number is 578720916 .
+7 miss , which city are you going to travel to ?
+8 go to Tananarive
+9 miss , may i have your name , please ?
+10 yeah , i am Cindy_Eberhardt .
+11 please tell me your contact number , miss .
+12 0016173042999
+13 the travel time is ?
+14 book a ticket on 10/18/2016 .
+15 we have reserved for you , miss .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Cindy_Eberhardt	16
+18 what is the departure city ?	Dussdolf	16
+19 what is the destination city ?	Tananarive	16
+20 when does the client depart ?	10/18/2016	16
+21 what is the passport number ?	578720916	16
+22 what is the phone number ?	0016173042999	16
+1 hi , this is air ticket booking center , what services you need ?
+2 hello , i need to reserve a flight .
+3 what's your phone number , sir ?
+4 the phone number 0016175717257
+5 where are you flying to ?
+6 UIO
+7 what should i call you , sir ?
+8 my full name is Albert_Smith
+9 sir , where is the starting city of your trip ?
+10 i'm going to start from LAMY .
+11 the travel time is ?
+12 i want to go on 04/18/2018 .
+13 may i have your passport number , sir .
+14 the passport number is 258185114 .
+15 ok , the ticket has been reserved for you .
+16 wonderful , thank you .
+17 what is the client's name ?	Albert_Smith	16
+18 what is the departure city ?	LAMY	16
+19 what is the destination city ?	UIO	16
+20 when does the client depart ?	04/18/2018	16
+21 what is the passport number ?	258185114	16
+22 what is the phone number ?	0016175717257	16
+1 hi , this is air ticket booking center , what services you need ?
+2 hello , i want to reserve a seat .
+3 please tell me where do you take off ?
+4 Karachi .
+5 sir , may i have your phone number ?
+6 contact number 0016172083566
+7 your destination city , please .
+8 SLC
+9 please tell me the passenger's passport number , sir .
+10 335458568
+11 what date will you be traveling on ?
+12 05/22/2017
+13 your name , sir ?
+14 call me Matthew_George
+15 we have reserved for you , sir .
+16 thanks very much .
+17 what is the client's name ?	Matthew_George	16
+18 what is the departure city ?	Karachi	16
+19 what is the destination city ?	SLC	16
+20 when does the client depart ?	05/22/2017	16
+21 what is the passport number ?	335458568	16
+22 what is the phone number ?	0016172083566	16
+1 hello , this is air ticket booking agent center .
+2 i want to reserve a seat .
+3 miss , passport number , please .
+4 the number 200886136
+5 the passenger's phone number is ?
+6 my contact number is 0016171492336
+7 your name ?
+8 uh , my name is Gina_Good .
+9 miss , where do you go ?
+10 from Glasgow .
+11 miss , where are you flying to ?
+12 is BUF .
+13 ok miss , what is the time ?
+14 i plan to leave on 12/16/2016 .
+15 ok miss , the ticket has been reserved for you .
+16 good , thanks .
+17 what is the client's name ?	Gina_Good	16
+18 what is the departure city ?	Glasgow	16
+19 what is the destination city ?	BUF	16
+20 when does the client depart ?	12/16/2016	16
+21 what is the passport number ?	200886136	16
+22 what is the phone number ?	0016171492336	16
+1 good morning , this is air ticket booking agent center . what can i do for you ?
+2 hello , i need to book a plane ticket .
+3 miss , where do you go ?
+4 my final destination is Casablanca .
+5 passport number , miss ?
+6 the passport number is 318725229 .
+7 hello , we need your contact information .
+8 0016177809178
+9 when will you be leaving ?
+10 book a ticket on 01/20/2019 .
+11 please tell me your departure city .
+12 i plan to start from SWA .
+13 passenger name ?
+14 name is Ada_Williams .
+15 ok , the ticket has been reserved for you .
+16 ha , thanks for your service !
+17 what is the client's name ?	Ada_Williams	16
+18 what is the departure city ?	SWA	16
+19 what is the destination city ?	Casablanca	16
+20 when does the client depart ?	01/20/2019	16
+21 what is the passport number ?	318725229	16
+22 what is the phone number ?	0016177809178	16
+1 hello , i am the air ticket booking agent , what services you need ?
+2 hello , i want to reserve a seat .
+3 please tell me the passenger's passport number , sir .
+4 my passport number is 629717086 .
+5 name , sir ?
+6 is Carlyle_Williamson .
+7 where is the starting city of your trip ?
+8 MFM
+9 the phone number , sir ?
+10 0016174850081
+11 which airport of your destination , sir ?
+12 buy a ticket to SJC .
+13 what date would you like me to book this plane ticket for ?
+14 06/15/2018 .
+15 well , i have you booked on a flight that will fit your schedule .
+16 so fast , thanks very much .
+17 what is the client's name ?	Carlyle_Williamson	16
+18 what is the departure city ?	MFM	16
+19 what is the destination city ?	SJC	16
+20 when does the client depart ?	06/15/2018	16
+21 what is the passport number ?	629717086	16
+22 what is the phone number ?	0016174850081	16
+1 good afternoon , this is air ticket booking agent center . what can i do for you ?
+2 hi , please help me book an air ticket .
+3 when are you going ?
+4 12/16/2017 .
+5 what is the destination city ?
+6 go to Tel_Aviv .
+7 the passenger's phone number is ?
+8 my cell number is 0016175709009
+9 what is the user name , sir ?
+10 sure , i am Nancy_Smith
+11 sir , where do you go ?
+12 the departure is GLA .
+13 well sir , your passport number , please .
+14 my passport number is 513387144 .
+15 well sir , i have you booked on a flight that will fit your schedule .
+16 hmm , thanks for you service .
+17 what is the client's name ?	Nancy_Smith	16
+18 what is the departure city ?	GLA	16
+19 what is the destination city ?	Tel_Aviv	16
+20 when does the client depart ?	12/16/2017	16
+21 what is the passport number ?	513387144	16
+22 what is the phone number ?	0016175709009	16
+1 good morning , this is air ticket booking agent center . what can i do for you ?
+2 i want to make plane reservations .
+3 can you please tell me your telephone number , miss ?
+4 the number is 0016171877856
+5 please let me know your name .
+6 i am Olivia_Edward .
+7 which airport of your destination ?
+8 go to GIB
+9 what is the departure city ?
+10 Ho_Chi_Minh_City
+11 what date will you be traveling , miss ?
+12 07/23/2017 is ok .
+13 get it , what is your passport number , miss ?
+14 ok , my passport number is 467817248
+15 well miss , i have you booked on a flight that will fit your schedule .
+16 thanks very much
+17 what is the client's name ?	Olivia_Edward	16
+18 what is the departure city ?	Ho_Chi_Minh_City	16
+19 what is the destination city ?	GIB	16
+20 when does the client depart ?	07/23/2017	16
+21 what is the passport number ?	467817248	16
+22 what is the phone number ?	0016171877856	16
+1 good afternoon , air ticket booking center , what can i do for you ?
+2 i want to reserve a seat .
+3 miss , may i have your name , please ?
+4 Cherry_Street .
+5 what is the departure city ?
+6 flight from ORL
+7 hello miss , i need your passport number .
+8 734492480 .
+9 what's your phone number , miss ?
+10 0016172788659
+11 miss , what date would you like me to book this plane ticket for ?
+12 i want to fly on 05/27/2016 .
+13 miss , what city are you flying to ?
+14 HKT
+15 done , the ticket has been reserved for you .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Cherry_Street	16
+18 what is the departure city ?	ORL	16
+19 what is the destination city ?	HKT	16
+20 when does the client depart ?	05/27/2016	16
+21 what is the passport number ?	734492480	16
+22 what is the phone number ?	0016172788659	16
+1 good morning , this is air ticket booking agent center . what can i do for you ?
+2 i would like to book an air ticket .
+3 please tell me your name , thanks very much .
+4 Flora_Plimmer
+5 ok miss , what is the date ?
+6 the date is 09/25/2016 .
+7 what is the destination city ?
+8 CEB is my destination
+9 we need to known your passport number , miss .
+10 150632564 .
+11 miss , the passenger's phone number is ?
+12 contact number 0016174642687
+13 where do you take off ?
+14 i'm going to start from PPG .
+15 now you have been booked , miss .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Flora_Plimmer	16
+18 what is the departure city ?	PPG	16
+19 what is the destination city ?	CEB	16
+20 when does the client depart ?	09/25/2016	16
+21 what is the passport number ?	150632564	16
+22 what is the phone number ?	0016174642687	16
+1 hello , this is air ticket booking agent center . what can i do for you ?
+2 hello , i want to reserve a seat .
+3 what is the name of the passenger ?
+4 my full name is Jessica_Lake
+5 please tell me where do you take off ?
+6 Papeete .
+7 miss , need your passport number , thanks .
+8 ok , the number is 744031198 .
+9 ok , please tell me where is the destination city ?
+10 flight to GUA .
+11 miss , when do you want to travel ?
+12 i want to fly on 04/17/2014 .
+13 hmm miss , the phone number ? thanks .
+14 0016171985391 is my phone number .
+15 ok , it's done .
+16 thanks very much
+17 what is the client's name ?	Jessica_Lake	16
+18 what is the departure city ?	Papeete	16
+19 what is the destination city ?	GUA	16
+20 when does the client depart ?	04/17/2014	16
+21 what is the passport number ?	744031198	16
+22 what is the phone number ?	0016171985391	16
+1 good afternoon , this is air ticket booking service center , what help you need ?
+2 hello , i need to reserve a flight .
+3 passport number , miss ?
+4 409348814 .
+5 what should i call you ?
+6 the name is Cathy_Wood .
+7 miss , when will you be leaving ?
+8 i'd like to go on 10/26/2015
+9 what is the departure city , miss ?
+10 ticket starting in Perth .
+11 hello , we need your contact information .
+12 my phone number would be 0016172044866
+13 what is your destination , miss ?
+14 Manchester
+15 ok miss , it's done .
+16 wonderful , thank you .
+17 what is the client's name ?	Cathy_Wood	16
+18 what is the departure city ?	Perth	16
+19 what is the destination city ?	Manchester	16
+20 when does the client depart ?	10/26/2015	16
+21 what is the passport number ?	409348814	16
+22 what is the phone number ?	0016172044866	16
+1 good morning , this is air ticket booking agent center . what can i do for you ?
+2 i would like to buy a plane ticket please .
+3 sir , need your passport number , thanks .
+4 878889462
+5 your name , sir ?
+6 the name is Bruce_Ann .
+7 to which city , sir ?
+8 go to PER .
+9 when would you like to book the ticket , sir ?
+10 09/22/2016 .
+11 where do you go ?
+12 PNH .
+13 the passenger's phone number is ?
+14 is 0016171242657 .
+15 we have reserved for you , sir .
+16 ah , ok , thanks .
+17 what is the client's name ?	Bruce_Ann	16
+18 what is the departure city ?	PNH	16
+19 what is the destination city ?	PER	16
+20 when does the client depart ?	09/22/2016	16
+21 what is the passport number ?	878889462	16
+22 what is the phone number ?	0016171242657	16
+1 hi , air ticket booking center , what can i do for you ?
+2 yeah , i need to book an air ticket .
+3 what is the user name ?
+4 call me Vin_Dixon
+5 sir , may i have your passport number , please ?
+6 the passport number 280283473
+7 what city are you flying to , sir ?
+8 the destination is Oslo
+9 ok , what is the date ?
+10 07/30/2017
+11 ok , please tell me where is the starting city ?
+12 Lilongwe .
+13 get it , please tell me your phone number .
+14 0016178869186
+15 ok sir , it's done .
+16 hmm , thanks for you service .
+17 what is the client's name ?	Vin_Dixon	16
+18 what is the departure city ?	Lilongwe	16
+19 what is the destination city ?	Oslo	16
+20 when does the client depart ?	07/30/2017	16
+21 what is the passport number ?	280283473	16
+22 what is the phone number ?	0016178869186	16
+1 good afternoon , air ticket booking center , what can i do for you ?
+2 i want to make flight reservations .
+3 miss , passport number , please .
+4 the number is 399777795
+5 which city are you going to take off from ?
+6 ah , is Istanbul .
+7 to which city ?
+8 air ticket to Tripoli .
+9 please tell me your full name , miss .
+10 uh , my name is Ada_Parker .
+11 please tell me the passenger's phone number , miss .
+12 hmm , my phone number is 0016176098795
+13 when would you like to book the ticket , miss ?
+14 i want to fly on 07/18/2015 .
+15 now you have been booked , miss .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Ada_Parker	16
+18 what is the departure city ?	Istanbul	16
+19 what is the destination city ?	Tripoli	16
+20 when does the client depart ?	07/18/2015	16
+21 what is the passport number ?	399777795	16
+22 what is the phone number ?	0016176098795	16
+1 good afternoon , i am the air ticket booking agent , what services you need ?
+2 hello , i need to reserve a flight .
+3 please tell me the passenger's phone number .
+4 the phone number 0016172506496 .
+5 passenger name , please .
+6 i am Victor_Jordan .
+7 sir , when are you going ?
+8 uh , the travel time is 01/16/2018 .
+9 please tell me your departure city .
+10 help me book a flight to PAP takes off .
+11 ok sir , please tell me your passport number , thanks very much .
+12 uh , 810607181
+13 where are you traveling to ?
+14 i want go to EBB
+15 well sir , i have you booked on a flight that will fit your schedule .
+16 ah , ok , thanks .
+17 what is the client's name ?	Victor_Jordan	16
+18 what is the departure city ?	PAP	16
+19 what is the destination city ?	EBB	16
+20 when does the client depart ?	01/16/2018	16
+21 what is the passport number ?	810607181	16
+22 what is the phone number ?	0016172506496	16
+1 hello , this is air ticket booking agent center . what can i do for you ?
+2 i want to reserve a seat .
+3 sir , please let me know your name , thanks .
+4 ah , my name is Carol_Newton .
+5 ok sir , please tell me your phone number , thanks very much .
+6 my contact number is 0016177597681
+7 sir , the travel time is ?
+8 i am making a reservation for 02/23/2014
+9 may i ask where is your destination city , sir ?
+10 flight to KTM .
+11 please tell me your departure city .
+12 LAX .
+13 sir , may i have your passport number , please ?
+14 158224259 .
+15 now you have been booked , sir .
+16 hmm , thanks for you service .
+17 what is the client's name ?	Carol_Newton	16
+18 what is the departure city ?	LAX	16
+19 what is the destination city ?	KTM	16
+20 when does the client depart ?	02/23/2014	16
+21 what is the passport number ?	158224259	16
+22 what is the phone number ?	0016177597681	16
+1 good afternoon , this is air ticket booking center , what services you need ?
+2 i need to book an air ticket .
+3 miss , your passport number , please .
+4 is 649736503
+5 hello miss , can i have your name ?
+6 call me Silvia_Cliff
+7 your departure city , please .
+8 from Halifax .
+9 miss , what date would you like me to book this plane ticket for ?
+10 i want to go on 07/24/2014 .
+11 miss , please tell me which city do you go to ?
+12 buy a ticket to Lima .
+13 the phone number , miss ?
+14 my phone number is 0016178298760 .
+15 we have reserved for you .
+16 thanks very much
+17 what is the client's name ?	Silvia_Cliff	16
+18 what is the departure city ?	Halifax	16
+19 what is the destination city ?	Lima	16
+20 when does the client depart ?	07/24/2014	16
+21 what is the passport number ?	649736503	16
+22 what is the phone number ?	0016178298760	16
+1 good afternoon , this is air ticket booking agent center .
+2 i want to make flight reservations .
+3 please tell me your name .
+4 ok , Nancy_Pond
+5 where are you traveling to ?
+6 air ticket to IND .
+7 when would you like to buy ?
+8 uh , the travel time is 01/31/2014 .
+9 ok , please tell me where is the starting city ?
+10 my departure is Kunming
+11 what is your phone number ?
+12 0016178226383 .
+13 we need to known your passport number , sir .
+14 the number 401779326
+15 ok sir , have reserved for you .
+16 ha , thanks for your service !
+17 what is the client's name ?	Nancy_Pond	16
+18 what is the departure city ?	Kunming	16
+19 what is the destination city ?	IND	16
+20 when does the client depart ?	01/31/2014	16
+21 what is the passport number ?	401779326	16
+22 what is the phone number ?	0016178226383	16
+1 hello , i am the air ticket booking agent , what services you need ?
+2 i need to reserve a flight .
+3 sir , can you please tell me your name ?
+4 is Roger_Lake .
+5 what is your phone number , sir ?
+6 uh ，is 0016175976492 .
+7 what is your travel date , sir ?
+8 i will leave on 04/13/2018 .
+9 what is the destination city ?
+10 i want to book a flight to Gibraltar
+11 sir , your departure city , please .
+12 the flight taking off from Sydney .
+13 please tell me the passport number , sir .
+14 298480086
+15 ok , have reserved for you .
+16 thanks very much
+17 what is the client's name ?	Roger_Lake	16
+18 what is the departure city ?	Sydney	16
+19 what is the destination city ?	Gibraltar	16
+20 when does the client depart ?	04/13/2018	16
+21 what is the passport number ?	298480086	16
+22 what is the phone number ?	0016175976492	16
+1 good morning , this is air ticket booking service center , what help you need ?
+2 hi , please help me book an air ticket .
+3 hello , i need your phone number .
+4 the number is 0016178539013
+5 what is the departure city ?
+6 DOMINGO .
+7 miss , tell me your travel time , thanks .
+8 the travel date is 04/29/2016 .
+9 passport number , miss ?
+10 753288379 , my passport number .
+11 miss , what is your name , please ?
+12 my full name is Teresa_Baker
+13 miss , where are you flying to ?
+14 my final destination is Montevideo .
+15 we have reserved for you .
+16 thanks very much
+17 what is the client's name ?	Teresa_Baker	16
+18 what is the departure city ?	DOMINGO	16
+19 what is the destination city ?	Montevideo	16
+20 when does the client depart ?	04/29/2016	16
+21 what is the passport number ?	753288379	16
+22 what is the phone number ?	0016178539013	16
+1 hi , this is air ticket booking service center , what help you need ?
+2 i would like to buy a plane ticket .
+3 please tell me your contact number .
+4 the phone number 0016176337068 .
+5 sir , your passport number , please .
+6 uh , 822031500
+7 what is your travel date , sir ?
+8 i plan to leave on 06/18/2017 .
+9 name , sir ?
+10 Ethan_Smythe is my name
+11 what is the destination city ?
+12 Anchorage
+13 which airport of your departure ?
+14 i'm going to start from Santo_Domingo .
+15 i have you booked on a flight .
+16 well , good , thanks very much .
+17 what is the client's name ?	Ethan_Smythe	16
+18 what is the departure city ?	Santo_Domingo	16
+19 what is the destination city ?	Anchorage	16
+20 when does the client depart ?	06/18/2017	16
+21 what is the passport number ?	822031500	16
+22 what is the phone number ?	0016176337068	16
+1 good morning , this is air ticket booking service center , may i help you ?
+2 i would like to buy a plane ticket please .
+3 what is your destination ?
+4 my final destination is Vienna .
+5 we need to known your passport number , miss .
+6 the number is 885783253 .
+7 please tell me your phone number , miss .
+8 my phone number would be 0016171856995
+9 what should i call you ?
+10 yeah , i am Annie_Goodwin .
+11 when would you like to book the ticket ?
+12 02/18/2019
+13 ok miss , please tell me where is the starting city ?
+14 ah , is BNE .
+15 done , the ticket has been reserved for you .
+16 wonderful , thank you .
+17 what is the client's name ?	Annie_Goodwin	16
+18 what is the departure city ?	BNE	16
+19 what is the destination city ?	Vienna	16
+20 when does the client depart ?	02/18/2019	16
+21 what is the passport number ?	885783253	16
+22 what is the phone number ?	0016171856995	16
+1 good morning , this is air ticket booking service center , may i help you ?
+2 i'd like to buy a ticket .
+3 miss , where do you take off ?
+4 i may start from CAS
+5 please let me know your name .
+6 is Sherry_Cartwright .
+7 please tell me your contact information miss .
+8 the number is 0016177853001
+9 when do you want to travel ?
+10 please reserve the ticket on 07/15/2016 .
+11 hello miss , i need your passport number .
+12 856338373 , that is my number .
+13 miss , what is the destination city ?
+14 PAR
+15 done , the ticket has been reserved for you , miss .
+16 ha , thanks for your service !
+17 what is the client's name ?	Sherry_Cartwright	16
+18 what is the departure city ?	CAS	16
+19 what is the destination city ?	PAR	16
+20 when does the client depart ?	07/15/2016	16
+21 what is the passport number ?	856338373	16
+22 what is the phone number ?	0016177853001	16
+1 good afternoon , air ticket booking center , what can i do for you ?
+2 hello , i want to reserve a seat .
+3 sir , what is the destination city ?
+4 i'm leaving for Belgrade
+5 please tell me your departure city , sir .
+6 starting in OUA .
+7 sir , when do you want to go ?
+8 need to leave on 06/21/2016 .
+9 get it sir , please tell me your phone number .
+10 the phone number is 0016178265680 .
+11 sir , your name , please .
+12 Jessica_Brown
+13 could you tell me the passport number , sir ?
+14 ok , the number is 269012638 .
+15 ok sir , i was able to find an inexpensive flight for you .
+16 good , thanks .
+17 what is the client's name ?	Jessica_Brown	16
+18 what is the departure city ?	OUA	16
+19 what is the destination city ?	Belgrade	16
+20 when does the client depart ?	06/21/2016	16
+21 what is the passport number ?	269012638	16
+22 what is the phone number ?	0016178265680	16
+1 hello , i am the air ticket booking agent , what services you need ?
+2 yeah , i'd like to reserve a flight .
+3 get it miss , please tell me your phone number .
+4 0016173153925
+5 where do you go ?
+6 ticket to STR
+7 could you tell me the passport number , miss ?
+8 the number is 848798918 .
+9 may i know your name , miss ?
+10 Jocelyn_Pond
+11 please tell me your departure city , miss .
+12 Pago_Apgo .
+13 when will you be leaving ?
+14 i'd like to book a flight on 11/22/2017 .
+15 done , the ticket has been reserved for you .
+16 hmm , thanks for you service .
+17 what is the client's name ?	Jocelyn_Pond	16
+18 what is the departure city ?	Pago_Apgo	16
+19 what is the destination city ?	STR	16
+20 when does the client depart ?	11/22/2017	16
+21 what is the passport number ?	848798918	16
+22 what is the phone number ?	0016173153925	16
+1 hi , this is air ticket booking center , what services you need ?
+2 yeah , i'd like to reserve a flight .
+3 what is your full name , sir ?
+4 ok , name is Ian_Pond
+5 please tell me your passport number , sir .
+6 209906260
+7 sir , where are you flying to ?
+8 buy a ticket to HAN .
+9 the passenger's phone number is ?
+10 0016174770118 .
+11 which city are you going to take off from ?
+12 help me book a flight to Lusaka takes off .
+13 when would you like to book the ticket ?
+14 02/25/2017 .
+15 we have reserved for you , sir .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Ian_Pond	16
+18 what is the departure city ?	Lusaka	16
+19 what is the destination city ?	HAN	16
+20 when does the client depart ?	02/25/2017	16
+21 what is the passport number ?	209906260	16
+22 what is the phone number ?	0016174770118	16
+1 hi , this is air ticket booking center , what services you need ?
+2 yeah , i would like to make a flight reservation .
+3 we need to known your passport number , sir .
+4 763396020 is my number .
+5 your contact number , sir ?
+6 hmm , my phone number is 0016175402752
+7 please tell me your full name , sir .
+8 name is Andy_Smythe .
+9 ok sir , please tell me your travel time .
+10 please reserve the ticket on 01/27/2016 .
+11 what is the departure city , sir ?
+12 i may start from KRT
+13 what is your destination ?
+14 go to BNJ .
+15 i have you booked on a flight .
+16 thanks very much !
+17 what is the client's name ?	Andy_Smythe	16
+18 what is the departure city ?	KRT	16
+19 what is the destination city ?	BNJ	16
+20 when does the client depart ?	01/27/2016	16
+21 what is the passport number ?	763396020	16
+22 what is the phone number ?	0016175402752	16
+1 good afternoon , air ticket booking center , what can i do for you ?
+2 i need to make plane reservations .
+3 sir , the passenger's passport number is ?
+4 206038488 .
+5 please tell me your contact information sir .
+6 0016174579433
+7 ok , please tell me your travel time .
+8 please reserve the ticket on 01/23/2014 .
+9 ok , please tell me where is the starting city ?
+10 flight from Lisbon
+11 please tell me which city do you go to ?
+12 Khartoum is my destination
+13 sir , please tell me your name , thanks very much .
+14 hi , my name is Shawn_Field .
+15 well , i have you booked on a flight that will fit your schedule .
+16 so fast , thanks very much .
+17 what is the client's name ?	Shawn_Field	16
+18 what is the departure city ?	Lisbon	16
+19 what is the destination city ?	Khartoum	16
+20 when does the client depart ?	01/23/2014	16
+21 what is the passport number ?	206038488	16
+22 what is the phone number ?	0016174579433	16
+1 hi , this is air ticket booking center , what services you need ?
+2 hello , i want to reserve a seat .
+3 what's your phone number ?
+4 my contact number is 0016176949539
+5 miss , passport number , please .
+6 743021302
+7 please tell me your name , thanks .
+8 Elaine_Robinson .
+9 miss , when do you want to go ?
+10 i am making a reservation for 01/14/2017
+11 may i ask where is your destination city ?
+12 going to Kuching
+13 where do you take off ?
+14 i'm going to start from Guam .
+15 ok miss , i was able to find an inexpensive flight for you .
+16 wonderful , thank you .
+17 what is the client's name ?	Elaine_Robinson	16
+18 what is the departure city ?	Guam	16
+19 what is the destination city ?	Kuching	16
+20 when does the client depart ?	01/14/2017	16
+21 what is the passport number ?	743021302	16
+22 what is the phone number ?	0016176949539	16
+1 good morning , air ticket booking center , what can i do for you ?
+2 yeah , i'd like to reserve a flight .
+3 what is your full name , sir ?
+4 Eason_Edward
+5 we need to know your phone number , sir .
+6 0016171728614 , my phone number .
+7 i see , please tell me your passport number , sir .
+8 179844959
+9 please tell me when do you want to go , sir ?
+10 08/17/2014 .
+11 which airport of your destination ?
+12 is Canberra .
+13 please tell me your departure city , sir .
+14 i will start from SPK .
+15 i have you booked on a flight .
+16 thanks very much .
+17 what is the client's name ?	Eason_Edward	16
+18 what is the departure city ?	SPK	16
+19 what is the destination city ?	Canberra	16
+20 when does the client depart ?	08/17/2014	16
+21 what is the passport number ?	179844959	16
+22 what is the phone number ?	0016171728614	16
+1 good afternoon , i am the air ticket booking agent , what services you need ?
+2 i want to make flight reservations .
+3 can you please tell me your name ?
+4 Landi_Good .
+5 please tell me your departure city , sir .
+6 ticket starting in ALBATIN .
+7 sir , the travel time is ?
+8 11/24/2018 is ok .
+9 please tell me your phone number , sir .
+10 the phone number is 0016172463340 .
+11 what city are you flying to , sir ?
+12 the destination city is San_Jose .
+13 please tell me the passenger's passport number , sir .
+14 the number is 638756002
+15 now you have been booked .
+16 thanks very much
+17 what is the client's name ?	Landi_Good	16
+18 what is the departure city ?	ALBATIN	16
+19 what is the destination city ?	San_Jose	16
+20 when does the client depart ?	11/24/2018	16
+21 what is the passport number ?	638756002	16
+22 what is the phone number ?	0016172463340	16
+1 good afternoon , air ticket booking center , what can i do for you ?
+2 i would like to buy a plane ticket .
+3 which city are you going to travel to ?
+4 go to MAROUES .
+5 contact number ? thanks .
+6 yeah , my phone number is 0016177776584 .
+7 please tell me when do you want to go , sir ?
+8 on 01/18/2019 .
+9 could you tell me the passport number , sir ?
+10 670714320 is my number .
+11 please tell me your departure city .
+12 take off from SNN .
+13 could you please tell me your name , sir .
+14 ok , name is Max_Williams
+15 done , the ticket has been reserved for you , sir .
+16 ok , thank you .
+17 what is the client's name ?	Max_Williams	16
+18 what is the departure city ?	SNN	16
+19 what is the destination city ?	MAROUES	16
+20 when does the client depart ?	01/18/2019	16
+21 what is the passport number ?	670714320	16
+22 what is the phone number ?	0016177776584	16
+1 hi , this is air ticket booking center , what services you need ?
+2 yeah , i would like to make a flight booking .
+3 which airport of your destination , miss ?
+4 flight to MEX .
+5 please tell me your contact information .
+6 0016177010068 , that is my contact number .
+7 miss , may i have your passport number , please ?
+8 the passport number is 626812179 .
+9 your departure city , please .
+10 i will start from Denver .
+11 could you please tell me your name .
+12 Rebecca_Edward .
+13 ok , what is the date ?
+14 i need a flight on 10/29/2016
+15 now you have been booked , miss .
+16 ok , thank you .
+17 what is the client's name ?	Rebecca_Edward	16
+18 what is the departure city ?	Denver	16
+19 what is the destination city ?	MEX	16
+20 when does the client depart ?	10/29/2016	16
+21 what is the passport number ?	626812179	16
+22 what is the phone number ?	0016177010068	16
+1 hello , this is air ticket booking agent center . what can i do for you ?
+2 hi , i want to make flight reservations .
+3 please tell me your contact number , miss .
+4 the phone number is 0016173617137 .
+5 i see , please tell me your passport number , miss .
+6 the passport number 173993727
+7 please tell me your departure city .
+8 take off from ABJ .
+9 ok miss , what is the date ?
+10 09/17/2014
+11 please tell me which city do you go to ?
+12 GUA
+13 please tell me your full name , miss .
+14 Cindy_Bush .
+15 i have you booked on a flight .
+16 ah , ok , thanks .
+17 what is the client's name ?	Cindy_Bush	16
+18 what is the departure city ?	ABJ	16
+19 what is the destination city ?	GUA	16
+20 when does the client depart ?	09/17/2014	16
+21 what is the passport number ?	173993727	16
+22 what is the phone number ?	0016173617137	16
+1 hi , air ticket booking center , what can i do for you ?
+2 i want to make flight reservations .
+3 what is your full name ?
+4 name is Allen_Field
+5 get it , your phone number ?
+6 uh ，is 0016177656407 .
+7 which airport of your departure ?
+8 TNR .
+9 hello sir , i need your passport number .
+10 the passport number is 667132882 .
+11 sir , which city are you going to travel to ?
+12 Xian
+13 sir , what date would you like me to book this plane ticket for ?
+14 i want to fly on 01/17/2019 .
+15 now you have been booked .
+16 ok , thank you .
+17 what is the client's name ?	Allen_Field	16
+18 what is the departure city ?	TNR	16
+19 what is the destination city ?	Xian	16
+20 when does the client depart ?	01/17/2019	16
+21 what is the passport number ?	667132882	16
+22 what is the phone number ?	0016177656407	16
+1 good morning , i am the air ticket booking agent , what services you need ?
+2 yeah , i'd like to reserve a flight .
+3 which city are you going to take off from ?
+4 the departure is ORLEANS .
+5 ok sir , please tell me your passport number , thanks very much .
+6 438253666 .
+7 when do you want to travel ?
+8 i will go on 08/16/2016 .
+9 please tell me your phone number , sir .
+10 the phone number 0016172957876 .
+11 your destination city , please .
+12 go to Macao
+13 what is your full name , sir ?
+14 call me Mike_Dixon
+15 ok , i was able to find an inexpensive flight for you .
+16 ha , thanks for your service !
+17 what is the client's name ?	Mike_Dixon	16
+18 what is the departure city ?	ORLEANS	16
+19 what is the destination city ?	Macao	16
+20 when does the client depart ?	08/16/2016	16
+21 what is the passport number ?	438253666	16
+22 what is the phone number ?	0016172957876	16
+1 good afternoon , this is air ticket booking agent center . what can i do for you ?
+2 i want to reserve a seat .
+3 passport number , sir ?
+4 796929559 , my passport number .
+5 get it sir , please tell me your phone number .
+6 contact number 0016175807644
+7 i need to know your name , sir .
+8 Martin_Johnson is my name
+9 your destination city , please .
+10 the destination city is Panama_City .
+11 what is your travel date , sir ?
+12 07/28/2016 .
+13 sir , where do you take off ?
+14 book a flight from ORLEANS .
+15 ok sir , it's done .
+16 ok , thank you .
+17 what is the client's name ?	Martin_Johnson	16
+18 what is the departure city ?	ORLEANS	16
+19 what is the destination city ?	Panama_City	16
+20 when does the client depart ?	07/28/2016	16
+21 what is the passport number ?	796929559	16
+22 what is the phone number ?	0016175807644	16
+1 good afternoon , this is air ticket booking service center , may i help you ?
+2 i'd like to buy a ticket .
+3 where are you traveling to , miss ?
+4 buy a ticket to OKA .
+5 please tell me your name .
+6 hi , my name is Faye_Brook .
+7 where do you go ?
+8 i'm going to start from BGF .
+9 when will you be leaving ?
+10 i want to go on 07/14/2018 .
+11 ok miss , please tell me your passport number , thanks very much .
+12 163486683 , my passport number .
+13 hmm miss , the phone number ? thanks .
+14 0016171653668 .
+15 ok , i was able to find an inexpensive flight for you .
+16 well , good , thanks very much .
+17 what is the client's name ?	Faye_Brook	16
+18 what is the departure city ?	BGF	16
+19 what is the destination city ?	OKA	16
+20 when does the client depart ?	07/14/2018	16
+21 what is the passport number ?	163486683	16
+22 what is the phone number ?	0016171653668	16
+1 good afternoon , air ticket booking center , what can i do for you ?
+2 i would like to buy a plane ticket .
+3 miss , may i have your name , please ?
+4 yeah , i am Teresa_Williamson .
+5 miss , may i have your passport number , please ?
+6 774481486 .
+7 please tell me which city do you go to ?
+8 the destination city is MEB .
+9 what's your phone number ?
+10 the phone number 0016176446475 .
+11 ok miss , what is the time ?
+12 i plan to leave on 07/23/2014 .
+13 miss , your departure city , please .
+14 starting in Newyork .
+15 we have reserved for you , miss .
+16 hmm , thanks for you service .
+17 what is the client's name ?	Teresa_Williamson	16
+18 what is the departure city ?	Newyork	16
+19 what is the destination city ?	MEB	16
+20 when does the client depart ?	07/23/2014	16
+21 what is the passport number ?	774481486	16
+22 what is the phone number ?	0016176446475	16
+1 good morning , this is air ticket booking center , what services you need ?
+2 i need to reserve a flight .
+3 what date will you be traveling on ?
+4 the travel date is 09/30/2014 .
+5 ok sir , please tell me where is the starting city ?
+6 take off from KWL .
+7 ok , please tell me where is the destination city ?
+8 to Danascus .
+9 get it , your phone number ?
+10 0016178458644 is my phone number .
+11 i see , please tell me your passport number , sir .
+12 268786568 .
+13 sir , please tell me your name , thanks very much .
+14 is Connie_James .
+15 done , the ticket has been reserved for you , sir .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Connie_James	16
+18 what is the departure city ?	KWL	16
+19 what is the destination city ?	Danascus	16
+20 when does the client depart ?	09/30/2014	16
+21 what is the passport number ?	268786568	16
+22 what is the phone number ?	0016178458644	16
+1 hi , this is air ticket booking center , what services you need ?
+2 hello , i need to book a plane ticket .
+3 what's your destination ?
+4 PRG
+5 sir , contact number ? thanks .
+6 my contact number is 0016175206088
+7 well sir , your passport number , please .
+8 the passport number is 854994774 .
+9 sir , when would you like to buy ?
+10 i will leave on 03/25/2014 .
+11 what's your name , sir ?
+12 my name is Victor_Dixon .
+13 ok sir , please tell me where is the starting city ?
+14 starting in Tananarive .
+15 ok sir , the ticket has been reserved for you .
+16 ok , thank you .
+17 what is the client's name ?	Victor_Dixon	16
+18 what is the departure city ?	Tananarive	16
+19 what is the destination city ?	PRG	16
+20 when does the client depart ?	03/25/2014	16
+21 what is the passport number ?	854994774	16
+22 what is the phone number ?	0016175206088	16
+1 good morning , i am the air ticket booking agent , what services you need ?
+2 yeah , i would like to book an air ticket .
+3 please tell me the passenger's passport number , miss .
+4 575470290 , my passport number .
+5 miss , when are you leaving ?
+6 i'd like to book a flight on 02/27/2014 .
+7 please tell me your contact number , miss .
+8 my contact number 0016172346216
+9 what is your name ?
+10 Michelle_Sandall .
+11 miss , where do you take off ?
+12 departure from MVD
+13 miss , which city are you going to travel to ?
+14 go to DRW
+15 done , the ticket has been reserved for you , miss .
+16 so fast , thanks very much .
+17 what is the client's name ?	Michelle_Sandall	16
+18 what is the departure city ?	MVD	16
+19 what is the destination city ?	DRW	16
+20 when does the client depart ?	02/27/2014	16
+21 what is the passport number ?	575470290	16
+22 what is the phone number ?	0016172346216	16
+1 good morning , this is air ticket booking agent center .
+2 hi , please help me book an air ticket .
+3 please tell me where do you take off , sir ?
+4 my departure is Little_Rock
+5 your destination city , please .
+6 VTE is my destination
+7 we need to know your phone number .
+8 the phone number 0016171934421 .
+9 sir , can you please tell me your name ?
+10 my name is Jeff_George
+11 when would you like to book the ticket ?
+12 uh , the travel time is 05/14/2015 .
+13 ok sir , please tell me your passport number , thanks very much .
+14 ok , my passport number is 765606631
+15 now you have been booked , sir .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Jeff_George	16
+18 what is the departure city ?	Little_Rock	16
+19 what is the destination city ?	VTE	16
+20 when does the client depart ?	05/14/2015	16
+21 what is the passport number ?	765606631	16
+22 what is the phone number ?	0016171934421	16
+1 good morning , this is air ticket booking agent center . what can i do for you ?
+2 hello , i need to book a plane ticket .
+3 passport number , sir ?
+4 the number is 303632418
+5 sir , please tell me which city do you go to ?
+6 i'm leaving for Cleveland
+7 passenger name ?
+8 Joshua_Elizabeth
+9 get it sir , please tell me your phone number .
+10 contact number 0016176085146
+11 when do you want to travel ?
+12 need to leave on 05/19/2018 .
+13 what is the departure city ?
+14 help me book a flight to Lusaka takes off .
+15 ok sir , it's done .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Joshua_Elizabeth	16
+18 what is the departure city ?	Lusaka	16
+19 what is the destination city ?	Cleveland	16
+20 when does the client depart ?	05/19/2018	16
+21 what is the passport number ?	303632418	16
+22 what is the phone number ?	0016176085146	16
+1 good afternoon , this is air ticket booking center , what services you need ?
+2 yeah , i'd like to reserve a flight .
+3 ok sir , please tell me your phone number , thanks very much .
+4 0016174412081 is my phone number .
+5 may i know your name ?
+6 Joan_Robinson
+7 your departure city , please .
+8 ABABA .
+9 could you tell me the passport number , sir ?
+10 the passport number is 331890689 .
+11 what date would you like me to book this plane ticket for ?
+12 i will leave on 01/20/2016 .
+13 please tell me your destination city , sir .
+14 to Philadelphia .
+15 well , i have you booked on a flight that will fit your schedule .
+16 thanks very much .
+17 what is the client's name ?	Joan_Robinson	16
+18 what is the departure city ?	ABABA	16
+19 what is the destination city ?	Philadelphia	16
+20 when does the client depart ?	01/20/2016	16
+21 what is the passport number ?	331890689	16
+22 what is the phone number ?	0016174412081	16
+1 hi , air ticket booking center , what can i do for you ?
+2 i would like to book an air ticket .
+3 may i have your phone number ?
+4 uh ，is 0016171106831 .
+5 ok , please tell me your travel time .
+6 i'd like to go on 10/20/2018
+7 i need to know your name .
+8 Sean_Anjou
+9 please tell me your destination city , sir .
+10 i want go to SIA
+11 what is your passport number , sir ?
+12 ah , is 797685936 .
+13 please tell me where do you take off ?
+14 Libreville
+15 ok sir , the ticket has been reserved for you .
+16 ah , ok , thanks .
+17 what is the client's name ?	Sean_Anjou	16
+18 what is the departure city ?	Libreville	16
+19 what is the destination city ?	SIA	16
+20 when does the client depart ?	10/20/2018	16
+21 what is the passport number ?	797685936	16
+22 what is the phone number ?	0016171106831	16
+1 good morning , this is air ticket booking center , what services you need ?
+2 i'd like to buy a ticket .
+3 hmm , the phone number ? thanks .
+4 ah , 0016178347909
+5 ok miss , what is the time ?
+6 book a ticket on 04/24/2015 .
+7 what is your name ?
+8 call me Cheryl_Tree
+9 miss , please tell me which city do you go to ?
+10 my final destination is OSL .
+11 i see , please tell me your passport number , miss .
+12 the number is 630931279 .
+13 ok , please tell me where is the starting city ?
+14 from LAMY .
+15 ok , i was able to find an inexpensive flight for you .
+16 good , thanks .
+17 what is the client's name ?	Cheryl_Tree	16
+18 what is the departure city ?	LAMY	16
+19 what is the destination city ?	OSL	16
+20 when does the client depart ?	04/24/2015	16
+21 what is the passport number ?	630931279	16
+22 what is the phone number ?	0016178347909	16
+1 hi , this is air ticket booking service center , what help you need ?
+2 yeah , i would like to make a flight booking .
+3 ok sir , please tell me your passport number , thanks very much .
+4 uh , is 543812096 .
+5 please tell me where do you take off ?
+6 the departure is NKG .
+7 when are you leaving ?
+8 06/17/2018 is ok .
+9 to which city ?
+10 POM .
+11 please tell me your contact number , sir .
+12 0016173664703 , my phone number .
+13 may i have your name , please ?
+14 Jeffrey_Richard
+15 i have you booked on a flight .
+16 thanks very much
+17 what is the client's name ?	Jeffrey_Richard	16
+18 what is the departure city ?	NKG	16
+19 what is the destination city ?	POM	16
+20 when does the client depart ?	06/17/2018	16
+21 what is the passport number ?	543812096	16
+22 what is the phone number ?	0016173664703	16
+1 good morning , this is air ticket booking center , what services you need ?
+2 hello , i want to reserve a seat .
+3 to which city ?
+4 to MKC .
+5 where do you take off ?
+6 TAO
+7 sir , please let me know your name , thanks .
+8 ah , my name is Roger_Wettin .
+9 sir , the passenger's passport number is ?
+10 462431269 .
+11 sir , when are you leaving ?
+12 04/21/2015 is ok .
+13 please tell me the passenger's phone number .
+14 uh , 0016173420407
+15 ok sir , i was able to find an inexpensive flight for you .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Roger_Wettin	16
+18 what is the departure city ?	TAO	16
+19 what is the destination city ?	MKC	16
+20 when does the client depart ?	04/21/2015	16
+21 what is the passport number ?	462431269	16
+22 what is the phone number ?	0016173420407	16
+1 hi , this is air ticket booking service center , what help you need ?
+2 i want to make plane reservations .
+3 please let me know your name , thanks .
+4 sure , i am Ann_Ann
+5 we need to known your passport number , miss .
+6 my passport number is 826900156 .
+7 miss , where are you flying to ?
+8 LAS
+9 when would you like to book the ticket , miss ?
+10 i'd like to book a flight on 07/26/2016 .
+11 miss , where do you go ?
+12 my departure is Sapporo
+13 please tell me your contact number .
+14 is 0016176143556 .
+15 done , the ticket has been reserved for you , miss .
+16 good , thanks .
+17 what is the client's name ?	Ann_Ann	16
+18 what is the departure city ?	Sapporo	16
+19 what is the destination city ?	LAS	16
+20 when does the client depart ?	07/26/2016	16
+21 what is the passport number ?	826900156	16
+22 what is the phone number ?	0016176143556	16
+1 hello , i am the air ticket booking agent , what services you need ?
+2 hi , please help me reserve a ticket .
+3 ok , what is the time ?
+4 on 08/22/2016 .
+5 hello , can i have your name ?
+6 uh , my name is Jessica_Wainwright .
+7 what is your passport number , miss ?
+8 137784664 .
+9 the phone number , miss ?
+10 is 0016177910081 .
+11 where do you take off ?
+12 book a flight from Fukuoka .
+13 may i ask where is your destination city ?
+14 ticket to Tel_Aviv
+15 we have reserved for you .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Jessica_Wainwright	16
+18 what is the departure city ?	Fukuoka	16
+19 what is the destination city ?	Tel_Aviv	16
+20 when does the client depart ?	08/22/2016	16
+21 what is the passport number ?	137784664	16
+22 what is the phone number ?	0016177910081	16
+1 hello , this is air ticket booking agent center .
+2 hi , i want to make flight reservations .
+3 please tell me when do you want to go , miss ?
+4 i plan to leave on 10/23/2013 .
+5 what is your phone number , miss ?
+6 uh ，is 0016176921928 .
+7 may i ask where is your destination city , miss ?
+8 plane for Helsinki .
+9 what is your passport number , miss ?
+10 221663291 is my number .
+11 miss , where is the starting city of your trip ?
+12 i start from Bahrain
+13 can you please tell me your name ?
+14 Jenny_Ann .
+15 ok miss , have reserved for you .
+16 good , thanks .
+17 what is the client's name ?	Jenny_Ann	16
+18 what is the departure city ?	Bahrain	16
+19 what is the destination city ?	Helsinki	16
+20 when does the client depart ?	10/23/2013	16
+21 what is the passport number ?	221663291	16
+22 what is the phone number ?	0016176921928	16
+1 good afternoon , i am the air ticket booking agent , what services you need ?
+2 i want to make flight reservations .
+3 please tell me your name , thanks .
+4 my name is Jessica_Wettin .
+5 what is your phone number , miss ?
+6 the phone number 0016171634712 .
+7 miss , need your passport number , thanks .
+8 the passport number 280874704
+9 may i ask where is your destination city , miss ?
+10 go to Islamabad
+11 the travel time is ?
+12 i plan to leave on 07/19/2018 .
+13 ok , please tell me where is the starting city ?
+14 starting in MVD .
+15 well miss , i have you booked on a flight that will fit your schedule .
+16 thanks very much .
+17 what is the client's name ?	Jessica_Wettin	16
+18 what is the departure city ?	MVD	16
+19 what is the destination city ?	Islamabad	16
+20 when does the client depart ?	07/19/2018	16
+21 what is the passport number ?	280874704	16
+22 what is the phone number ?	0016171634712	16
+1 hello , this is air ticket booking agent center .
+2 yeah , i would like to make a flight reservation .
+3 what date would you like me to book this plane ticket for ?
+4 02/22/2014
+5 your name ?
+6 Chris_Baker
+7 where do you take off ?
+8 flight from Ho_Chi_Minh_City
+9 where are you flying to ?
+10 flight to Sanya .
+11 we need to known your passport number , sir .
+12 uh , 664097057
+13 may i have your phone number , thanks .
+14 contact number 0016175918384
+15 ok sir , have reserved for you .
+16 ok , thank you .
+17 what is the client's name ?	Chris_Baker	16
+18 what is the departure city ?	Ho_Chi_Minh_City	16
+19 what is the destination city ?	Sanya	16
+20 when does the client depart ?	02/22/2014	16
+21 what is the passport number ?	664097057	16
+22 what is the phone number ?	0016175918384	16

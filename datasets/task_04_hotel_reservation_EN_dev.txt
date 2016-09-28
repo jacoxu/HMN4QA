@@ -1,0 +1,2200 @@
+1 good morning , i am the hotel receptionist , what services you need ?
+2 yeah , i need to book a hotel .
+3 can you please tell me your telephone number , sir ?
+4 0016172508829 is my phone number .
+5 sir , passport number , thanks .
+6 409268599
+7 how many rooms , sir ?
+8 six rooms .
+9 guest name , please .
+10 name is Kevin_Brown
+11 tell me which type of room do you like ?
+12 quad is ok .
+13 when will you arrival , sir ?
+14 need to check in on 02/19/2017 .
+15 done , the hotel has been reserved for you .
+16 well , good , thanks very much .
+17 what is the client's name ?	Kevin_Brown	16
+18 when does the client check in ?	02/19/2017	16
+19 what is the passport number ?	409268599	16
+20 what is the room type ?	quad	16
+21 how many rooms does the client book ?	six	16
+22 what is the contact number ?	0016172508829	16
+1 good morning , this is hotel booking center .
+2 hi , please help me book a hotel .
+3 what is your name , please ?
+4 i am Thomas_Wainwright .
+5 when will you arrival ?
+6 08/13/2014 .
+7 get it , your phone number ?
+8 the phone number is 0016177426739 .
+9 what is your passport number , sir ?
+10 is 242159152
+11 which kind of room do you want to book ?
+12 uh , help me to book the studio room .
+13 how many rooms do you want to book ?
+14 reserve two please .
+15 we have reserved for you , sir .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Thomas_Wainwright	16
+18 when does the client check in ?	08/13/2014	16
+19 what is the passport number ?	242159152	16
+20 what is the room type ?	studio	16
+21 how many rooms does the client book ?	two	16
+22 what is the contact number ?	0016177426739	16
+1 good morning , this is hotel booking center .
+2 hello , i want to reserve a hotel .
+3 passport number , miss ?
+4 my passport number is 737634334 .
+5 miss , contact number ? thanks .
+6 my contact number is 0016174634326
+7 how many rooms do you want to reserve ?
+8 i want to book eight rooms .
+9 please tell me your name .
+10 uh , my name is Vivi_Lake .
+11 please tell me when do you want to check in ?
+12 please reserve the hotel on 06/22/2015 .
+13 which kind of room do you want to select ?
+14 quad
+15 ok , it's done .
+16 ok , thank you .
+17 what is the client's name ?	Vivi_Lake	16
+18 when does the client check in ?	06/22/2015	16
+19 what is the passport number ?	737634334	16
+20 what is the room type ?	quad	16
+21 how many rooms does the client book ?	eight	16
+22 what is the contact number ?	0016174634326	16
+1 hi , this is hotel service center , what services you need ?
+2 i want to reserve a hotel .
+3 guest name , miss ?
+4 the name is Fiona_Goodwin .
+5 please tell me your passport number , miss .
+6 246300740 is my passport number .
+7 how many hotel rooms do you want , miss ?
+8 reserve 44 rooms for me , please .
+9 which type of hotel room to book ?
+10 i need to book the king room .
+11 when are you arriving ?
+12 need to check in on 10/20/2014 .
+13 please tell me your phone number , miss .
+14 0016172383905 , my phone number .
+15 done , the hotel has been reserved for you .
+16 good , thanks .
+17 what is the client's name ?	Fiona_Goodwin	16
+18 when does the client check in ?	10/20/2014	16
+19 what is the passport number ?	246300740	16
+20 what is the room type ?	king	16
+21 how many rooms does the client book ?	44	16
+22 what is the contact number ?	0016172383905	16
+1 hello , this is hotel booking center .
+2 yeah , i need to book a hotel .
+3 how many rooms do you want to reserve ?
+4 138 .
+5 when do you want to check in ?
+6 i'd like to book a hotel on 02/21/2016 .
+7 get it sir , please tell me your phone number .
+8 the phone number is 0016173651732 .
+9 could you tell me the passport number , sir ?
+10 my passport number is 692696444 .
+11 sir , which type of hotel room to book ?
+12 uh , help me to book the double room .
+13 i need to know your name , sir .
+14 ah , my name is Albert_Cliff .
+15 ok , have reserved for you .
+16 thanks very much .
+17 what is the client's name ?	Albert_Cliff	16
+18 when does the client check in ?	02/21/2016	16
+19 what is the passport number ?	692696444	16
+20 what is the room type ?	double	16
+21 how many rooms does the client book ?	138	16
+22 what is the contact number ?	0016173651732	16
+1 good morning , this is hotel booking center , what help you need ?
+2 hello , i want to reserve a hotel .
+3 when will you check in ?
+4 check in time is 04/25/2018 .
+5 miss , passport number , thanks .
+6 838993528 , my passport number .
+7 please tell me the guest's phone number , miss .
+8 0016178865985 , my phone number .
+9 miss , how many rooms do you want to book ?
+10 180 rooms
+11 may i know your name , miss ?
+12 ok , Catherine_Smith
+13 miss , which kind of room do you want to select ?
+14 reserve triple: room
+15 ok , have reserved for you .
+16 thanks very much .
+17 what is the client's name ?	Catherine_Smith	16
+18 when does the client check in ?	04/25/2018	16
+19 what is the passport number ?	838993528	16
+20 what is the room type ?	triple:	16
+21 how many rooms does the client book ?	180	16
+22 what is the contact number ?	0016178865985	16
+1 good afternoon , this is hotel service center . what can i do for you ?
+2 hello , i need to reserve a hotel .
+3 which kind of room , sir ?
+4 i want to book the queen room .
+5 sir , may i have your passport number , please ?
+6 is 482324095
+7 please tell me your contact information .
+8 0016178013389
+9 ok sir , what is the date ?
+10 i will arrive on 10/15/2015 .
+11 what's the number of rooms ?
+12 i need one rooms .
+13 what is your name , please ?
+14 ok , Fred_Jordan
+15 we have reserved for you , sir .
+16 thanks very much !
+17 what is the client's name ?	Fred_Jordan	16
+18 when does the client check in ?	10/15/2015	16
+19 what is the passport number ?	482324095	16
+20 what is the room type ?	queen	16
+21 how many rooms does the client book ?	one	16
+22 what is the contact number ?	0016178013389	16
+1 good morning , hotel reception , what can i do for you ?
+2 please make a reservation for me .
+3 miss , how many rooms you need ?
+4 reserve one please .
+5 which kind of room ?
+6 i want to book the twin room .
+7 i see , please tell me your passport number , miss .
+8 the number 301594594
+9 may i know your name , miss ?
+10 Gina_James .
+11 ok miss , what is the date ?
+12 i'd like to book a hotel on 04/27/2018 .
+13 hello , i need your phone number .
+14 0016174221184
+15 ok , the hotel has been reserved for you .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Gina_James	16
+18 when does the client check in ?	04/27/2018	16
+19 what is the passport number ?	301594594	16
+20 what is the room type ?	twin	16
+21 how many rooms does the client book ?	one	16
+22 what is the contact number ?	0016174221184	16
+1 hello , i am the hotel receptionist , what services you need ?
+2 yeah , i would like to book hotel .
+3 hello , can i have your name ?
+4 name is Amber_Forest
+5 how many rooms , miss ?
+6 one rooms
+7 may i have your passport number , miss .
+8 830872437 .
+9 what's your phone number ?
+10 the phone number is 0016178220566
+11 when are you arriving ?
+12 i'd like to book a hotel on 12/14/2015 .
+13 which kind of room do you need ?
+14 ah , need mini-suite room .
+15 ok , it's done .
+16 good , thanks .
+17 what is the client's name ?	Amber_Forest	16
+18 when does the client check in ?	12/14/2015	16
+19 what is the passport number ?	830872437	16
+20 what is the room type ?	mini-suite	16
+21 how many rooms does the client book ?	one	16
+22 what is the contact number ?	0016178220566	16
+1 good morning , i am the hotel receptionist , what services you need ?
+2 i need to reserve a hotel .
+3 ok sir , what is the time ?
+4 check in time is 08/15/2015 .
+5 how many rooms do you want to reserve ?
+6 reserve one rooms for me , please .
+7 what's your name ?
+8 name is Joost_Edward .
+9 we need to known your passport number , sir .
+10 212367568 .
+11 which type of room ?
+12 help me to reserve the suite room .
+13 may i have your cell phone number ?
+14 0016176965219
+15 we have reserved for you .
+16 wonderful , thank you .
+17 what is the client's name ?	Joost_Edward	16
+18 when does the client check in ?	08/15/2015	16
+19 what is the passport number ?	212367568	16
+20 what is the room type ?	suite	16
+21 how many rooms does the client book ?	one	16
+22 what is the contact number ?	0016176965219	16
+1 good afternoon , this is hotel service center . what can i do for you ?
+2 hi , please help me reserve a hotel .
+3 ok sir , how many rooms do you want ?
+4 one rooms .
+5 ok sir , which type of room do you like ?
+6 reserve the queen room , thanks .
+7 sir , need your passport number , thanks .
+8 the number 409279932
+9 please let me know your name , thanks .
+10 name is Jesus_Wright
+11 the phone number , sir ?
+12 0016175366967 , my phone number .
+13 ok sir , what is the date ?
+14 i will arrive on 03/13/2014 .
+15 we have reserved for you , sir .
+16 wonderful , thank you .
+17 what is the client's name ?	Jesus_Wright	16
+18 when does the client check in ?	03/13/2014	16
+19 what is the passport number ?	409279932	16
+20 what is the room type ?	queen	16
+21 how many rooms does the client book ?	one	16
+22 what is the contact number ?	0016175366967	16
+1 hello , this is hotel service center . what can i do for you ?
+2 yeah , please make a reservation for me .
+3 miss , please tell me the number of rooms .
+4 six rooms
+5 ok miss , please tell me your passport number , thanks very much .
+6 the number is 278386064
+7 miss , may i have your phone number , thanks .
+8 my contact number is 0016173737155
+9 please tell me the room type you want to reserve , miss .
+10 king room
+11 i need to know your name , miss .
+12 Jane_Weber is my name
+13 when are you arriving , miss ?
+14 07/16/2017 .
+15 ok miss , it's done .
+16 hmm , thanks for you service .
+17 what is the client's name ?	Jane_Weber	16
+18 when does the client check in ?	07/16/2017	16
+19 what is the passport number ?	278386064	16
+20 what is the room type ?	king	16
+21 how many rooms does the client book ?	six	16
+22 what is the contact number ?	0016173737155	16
+1 good morning , this is hotel booking center .
+2 hi , i want to make hotel reservations .
+3 ok , what is the time ?
+4 10/19/2018
+5 passport number , miss ?
+6 my passport number is 168642808 .
+7 guest name , please .
+8 my full name is Tracy_Johnson
+9 contact number ? thanks .
+10 my contact number 0016171444477
+11 miss , how many rooms do you want ?
+12 i want to reserve six rooms .
+13 miss , what type of room would you like ?
+14 i need the queen room .
+15 ok miss , have reserved for you .
+16 ok , thank you .
+17 what is the client's name ?	Tracy_Johnson	16
+18 when does the client check in ?	10/19/2018	16
+19 what is the passport number ?	168642808	16
+20 what is the room type ?	queen	16
+21 how many rooms does the client book ?	six	16
+22 what is the contact number ?	0016171444477	16
+1 good afternoon , hotel reception , what can i do for you ?
+2 hello , i want to reserve a hotel .
+3 please tell me your contact information .
+4 the phone number is 0016174918902
+5 miss , how many rooms do you want to book ?
+6 i want to book 193 rooms .
+7 miss , what type of room would you like ?
+8 i need the queen room .
+9 we need to known your passport number , miss .
+10 319269195 is my passport number .
+11 miss , the arrival time is ?
+12 check in time is 04/28/2018 .
+13 what is your full name ?
+14 name is Chloe_Parker
+15 ok miss , it's done .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Chloe_Parker	16
+18 when does the client check in ?	04/28/2018	16
+19 what is the passport number ?	319269195	16
+20 what is the room type ?	queen	16
+21 how many rooms does the client book ?	193	16
+22 what is the contact number ?	0016174918902	16
+1 good morning , this is hotel service center . what can i do for you ?
+2 i want to make hotel reservations .
+3 sir , when would you like to arrival the hotel ?
+4 check in time is 01/14/2019 .
+5 ok , please tell me your phone number , thanks very much .
+6 0016174787856 is my phone number .
+7 how many rooms , sir ?
+8 81 hotel rooms
+9 get it , what is your passport number , sir ?
+10 230736487 .
+11 please tell me which kind of room do you need , sir ?
+12 room type is studio .
+13 please let me know your name , thanks .
+14 my name is Jeffrey_Norman
+15 now you have been booked .
+16 good , thanks .
+17 what is the client's name ?	Jeffrey_Norman	16
+18 when does the client check in ?	01/14/2019	16
+19 what is the passport number ?	230736487	16
+20 what is the room type ?	studio	16
+21 how many rooms does the client book ?	81	16
+22 what is the contact number ?	0016174787856	16
+1 good morning , hotel reception , what can i do for you ?
+2 i want to reserve a hotel .
+3 please tell me the room type you want to reserve , sir .
+4 double-double
+5 the number of rooms ? thanks .
+6 i want to book 26 rooms .
+7 could you tell me the passport number , sir ?
+8 423815151 .
+9 contact number ? thanks .
+10 hmm , my phone number is 0016178110142
+11 what is your full name , sir ?
+12 i am Amanda_Arnot .
+13 what date will you check in on ?
+14 10/21/2014 .
+15 done , the hotel has been reserved for you .
+16 thanks very much !
+17 what is the client's name ?	Amanda_Arnot	16
+18 when does the client check in ?	10/21/2014	16
+19 what is the passport number ?	423815151	16
+20 what is the room type ?	double-double	16
+21 how many rooms does the client book ?	26	16
+22 what is the contact number ?	0016178110142	16
+1 good morning , hotel reception , what can i do for you ?
+2 yeah , i would like to make a hotel booking .
+3 please tell me the passport number , sir .
+4 ok , my passport number is 420657805
+5 we need to know your phone number .
+6 0016172136861
+7 sir , please let me know your name , thanks .
+8 sure , i am Martin_Good
+9 please tell me the room type you want to reserve .
+10 suite
+11 how many rooms do you want to book ?
+12 please help me to book eight .
+13 what is your check in date ?
+14 book a hotel on 12/20/2017 .
+15 ok , have reserved for you .
+16 wonderful , thank you .
+17 what is the client's name ?	Martin_Good	16
+18 when does the client check in ?	12/20/2017	16
+19 what is the passport number ?	420657805	16
+20 what is the room type ?	suite	16
+21 how many rooms does the client book ?	eight	16
+22 what is the contact number ?	0016172136861	16
+1 good afternoon , hotel reception , may i help you ?
+2 yeah , i would like to book hotel .
+3 sir , your name , please .
+4 ah , my name is Ivan_Ann .
+5 sir , please tell me the number of rooms .
+6 i need 166 rooms .
+7 sir , may i have your passport number , please ?
+8 891376530 .
+9 which kind of room do you want to book , sir ?
+10 queen room .
+11 ok sir , please tell me your phone number , thanks very much .
+12 my phone number would be 0016175304732
+13 when would you like to arrival the hotel ?
+14 i'd like to check in on 01/25/2017
+15 we have reserved for you .
+16 thanks very much !
+17 what is the client's name ?	Ivan_Ann	16
+18 when does the client check in ?	01/25/2017	16
+19 what is the passport number ?	891376530	16
+20 what is the room type ?	queen	16
+21 how many rooms does the client book ?	166	16
+22 what is the contact number ?	0016175304732	16
+1 good afternoon , this is hotel service center , what services you need ?
+2 hi , i want to make hotel reservations .
+3 please tell me the number of rooms .
+4 eight rooms .
+5 we need to know your phone number , sir .
+6 yeah , my phone number is 0016175692909 .
+7 please tell me when do you want to check in , sir ?
+8 i want to arrive on 09/20/2017 .
+9 sir , passport number , thanks .
+10 814905702 .
+11 ok , which type of room ?
+12 uh , help me to book the double room .
+13 your name , please .
+14 sure , i am Lawrence_James
+15 ok sir , the hotel has been reserved for you .
+16 ha , thanks for your service !
+17 what is the client's name ?	Lawrence_James	16
+18 when does the client check in ?	09/20/2017	16
+19 what is the passport number ?	814905702	16
+20 what is the room type ?	double	16
+21 how many rooms does the client book ?	eight	16
+22 what is the contact number ?	0016175692909	16
+1 hello , this is hotel service center . what can i do for you ?
+2 yeah , i need to book a hotel .
+3 what is your phone number , sir ?
+4 my phone number would be 0016171546316
+5 which kind of room do you want to book , sir ?
+6 reserve the triple: room , thanks .
+7 sir , tell me your arrival time , thanks .
+8 i will arrive on 11/27/2017 .
+9 please let me know your name , thanks .
+10 Albert_Robinson
+11 the number of rooms please ?
+12 reserve 157 please .
+13 sir , passport number , thanks .
+14 the number is 285101421
+15 ok sir , the hotel has been reserved for you .
+16 so fast , thanks very much .
+17 what is the client's name ?	Albert_Robinson	16
+18 when does the client check in ?	11/27/2017	16
+19 what is the passport number ?	285101421	16
+20 what is the room type ?	triple:	16
+21 how many rooms does the client book ?	157	16
+22 what is the contact number ?	0016171546316	16
+1 hello , i am the hotel receptionist , what services you need ?
+2 i want to make hotel reservations .
+3 ok miss , how many rooms ?
+4 25 rooms
+5 please tell me the guest's phone number .
+6 0016172935320 .
+7 which kind of room do you want to select ?
+8 mini-suite room
+9 ok miss , what is the date ?
+10 i want to check in on 01/14/2017 .
+11 please tell me your name .
+12 my name is Candice_Jordan
+13 ok miss , please tell me your passport number , thanks very much .
+14 my passport number is 277638389 .
+15 ok miss , the hotel has been reserved for you .
+16 hmm , thanks for you service .
+17 what is the client's name ?	Candice_Jordan	16
+18 when does the client check in ?	01/14/2017	16
+19 what is the passport number ?	277638389	16
+20 what is the room type ?	mini-suite	16
+21 how many rooms does the client book ?	25	16
+22 what is the contact number ?	0016172935320	16
+1 good afternoon , hotel service center , how can i help you ?
+2 hi , i want to make hotel reservations .
+3 please tell me the room type you want to reserve .
+4 booking the double room is ok .
+5 passport number , sir ?
+6 the number is 836775257
+7 sir , when would you like to arrival the hotel ?
+8 i am making a reservation for 10/15/2018
+9 your contact number , sir ?
+10 my contact number 0016175004669
+11 how many rooms do you want to reserve , sir ?
+12 seven
+13 what is your full name , sir ?
+14 Aaron_Arnot
+15 ok , it's done .
+16 well , good , thanks very much .
+17 what is the client's name ?	Aaron_Arnot	16
+18 when does the client check in ?	10/15/2018	16
+19 what is the passport number ?	836775257	16
+20 what is the room type ?	double	16
+21 how many rooms does the client book ?	seven	16
+22 what is the contact number ?	0016175004669	16
+1 good morning , this is hotel service center , what services you need ?
+2 please make a reservation for me .
+3 please tell me when do you want to check in ?
+4 i'd like to check in on 10/27/2015
+5 what's your name ?
+6 name is Vince_Smith
+7 which type of room , sir ?
+8 room type is double .
+9 please tell me your phone number .
+10 0016174926115 .
+11 what is the number of rooms ? thanks .
+12 three rooms
+13 sir , need your passport number , thanks .
+14 uh , is 664438590 .
+15 we have reserved for you .
+16 well , good , thanks very much .
+17 what is the client's name ?	Vince_Smith	16
+18 when does the client check in ?	10/27/2015	16
+19 what is the passport number ?	664438590	16
+20 what is the room type ?	double	16
+21 how many rooms does the client book ?	three	16
+22 what is the contact number ?	0016174926115	16
+1 good afternoon , this is hotel booking center , what help you need ?
+2 hello , i need to reserve a hotel .
+3 how many hotel rooms do you want to reserve , miss ?
+4 i want to reserve two
+5 miss , when would you like to arrival the hotel ?
+6 book a hotel on 02/25/2018 .
+7 may i have your cell phone number , miss ?
+8 0016176036130
+9 could you please tell me your name .
+10 name is Daisy_Robinson .
+11 miss , need your passport number , thanks .
+12 189957668 , my passport number .
+13 miss , which kind of room do you need ?
+14 i want to book double-double
+15 done , the hotel has been reserved for you .
+16 wonderful , thank you .
+17 what is the client's name ?	Daisy_Robinson	16
+18 when does the client check in ?	02/25/2018	16
+19 what is the passport number ?	189957668	16
+20 what is the room type ?	double-double	16
+21 how many rooms does the client book ?	two	16
+22 what is the contact number ?	0016176036130	16
+1 hi , this is hotel service center , what services you need ?
+2 i need to make hotel reservations .
+3 can you please tell me your telephone number , miss ?
+4 0016171632264 , my phone number .
+5 how many rooms do you want to book ?
+6 please help me to book 180 .
+7 miss , please tell me your name , thanks .
+8 Ann_Johnson .
+9 miss , your passport number , please .
+10 549131312 .
+11 what type of room would you like ?
+12 i need the twin room .
+13 ok , what is the time ?
+14 i am making a reservation for 06/23/2018
+15 done , the hotel has been reserved for you , miss .
+16 thanks very much !
+17 what is the client's name ?	Ann_Johnson	16
+18 when does the client check in ?	06/23/2018	16
+19 what is the passport number ?	549131312	16
+20 what is the room type ?	twin	16
+21 how many rooms does the client book ?	180	16
+22 what is the contact number ?	0016171632264	16
+1 good morning , hotel reception , may i help you ?
+2 hi , please help me book a hotel .
+3 please tell me the room type you want to reserve , sir .
+4 ah , need double room .
+5 hello sir , i need your passport number .
+6 608905742
+7 sir , the number of rooms please ?
+8 nine rooms
+9 may i know your name , sir ?
+10 call me Kevin_Nixon
+11 may i have your cell phone number ?
+12 contact number 0016171584734
+13 when will you check in ?
+14 check in time is 09/18/2018 .
+15 ok , it's done .
+16 ha , thanks for your service !
+17 what is the client's name ?	Kevin_Nixon	16
+18 when does the client check in ?	09/18/2018	16
+19 what is the passport number ?	608905742	16
+20 what is the room type ?	double	16
+21 how many rooms does the client book ?	nine	16
+22 what is the contact number ?	0016171584734	16
+1 good morning , this is hotel booking center , what help you need ?
+2 i need to book a hotel .
+3 when would you like to arrival , sir ?
+4 i plan to check in on 02/15/2014 .
+5 please tell me the guest's phone number , sir .
+6 my contact number is 0016175244573
+7 sir , what is your name , please ?
+8 name is Taylor_Street .
+9 ok , how many rooms ?
+10 79 rooms
+11 which kind of room do you want to book ?
+12 please help me to book the suite room .
+13 could you tell me the passport number , sir ?
+14 602393958 , that is my number .
+15 done , the hotel has been reserved for you , sir .
+16 ah , ok , thanks .
+17 what is the client's name ?	Taylor_Street	16
+18 when does the client check in ?	02/15/2014	16
+19 what is the passport number ?	602393958	16
+20 what is the room type ?	suite	16
+21 how many rooms does the client book ?	79	16
+22 what is the contact number ?	0016175244573	16
+1 good afternoon , hotel reception , may i help you ?
+2 i would like to book a hotel .
+3 sir , what is your check in date ?
+4 i'd like to book a hotel on 11/16/2017 .
+5 please tell me which kind of room do you need , sir ?
+6 quad .
+7 your contact number , sir ?
+8 0016173035319 .
+9 the number of rooms ? thanks .
+10 please help me to book one .
+11 may i have your name , please ?
+12 Shirley_Bush
+13 we need to known your passport number , sir .
+14 305811193 , my passport number .
+15 now you have been booked .
+16 thanks very much .
+17 what is the client's name ?	Shirley_Bush	16
+18 when does the client check in ?	11/16/2017	16
+19 what is the passport number ?	305811193	16
+20 what is the room type ?	quad	16
+21 how many rooms does the client book ?	one	16
+22 what is the contact number ?	0016173035319	16
+1 hi , this is hotel service center , what services you need ?
+2 i want to reserve a hotel .
+3 hmm sir , the number of rooms please .
+4 five
+5 i see , please tell me your passport number , sir .
+6 ok , my passport number is 171148696
+7 when are you arriving , sir ?
+8 the arrival date is 03/24/2017 .
+9 sir , may i have your phone number ?
+10 0016173007677
+11 sir , which type of hotel room to reserve ?
+12 i want to book the suite room .
+13 what is your full name , sir ?
+14 Francis_Williamson .
+15 now you have been booked , sir .
+16 ha , thanks for your service !
+17 what is the client's name ?	Francis_Williamson	16
+18 when does the client check in ?	03/24/2017	16
+19 what is the passport number ?	171148696	16
+20 what is the room type ?	suite	16
+21 how many rooms does the client book ?	five	16
+22 what is the contact number ?	0016173007677	16
+1 hi , hotel reception , may i help you ?
+2 hi , please help me reserve a hotel .
+3 i see , please tell me your passport number , sir .
+4 the number is 590160779
+5 sir , what date would you like me to book this hotel for ?
+6 uh , the arrival time is 04/21/2015 .
+7 which kind of room , sir ?
+8 room type is studio .
+9 sir , your name , please .
+10 Joost_Graham
+11 hello sir , we need your contact information .
+12 my cell number is 0016177543914
+13 get it sir , please tell me how many rooms .
+14 83 rooms
+15 ok sir , it's done .
+16 wonderful , thank you .
+17 what is the client's name ?	Joost_Graham	16
+18 when does the client check in ?	04/21/2015	16
+19 what is the passport number ?	590160779	16
+20 what is the room type ?	studio	16
+21 how many rooms does the client book ?	83	16
+22 what is the contact number ?	0016177543914	16
+1 good afternoon , i am the hotel receptionist , what services you need ?
+2 i need to reserve a hotel .
+3 what's the number of rooms , miss ?
+4 four hotel rooms
+5 ok miss , which type of room do you like ?
+6 book king room
+7 miss , when would you like to arrival the hotel ?
+8 i want to arrive on 01/14/2019 .
+9 name ?
+10 ok , name is Cathy_Field
+11 miss , contact number ? thanks .
+12 0016177080724 .
+13 miss , passport number , thanks .
+14 uh , 520885023
+15 ok miss , the hotel has been reserved for you .
+16 so fast , thanks very much .
+17 what is the client's name ?	Cathy_Field	16
+18 when does the client check in ?	01/14/2019	16
+19 what is the passport number ?	520885023	16
+20 what is the room type ?	king	16
+21 how many rooms does the client book ?	four	16
+22 what is the contact number ?	0016177080724	16
+1 hi , this is hotel service center , what services you need ?
+2 i need to make hotel reservations .
+3 please let me know your name , sir .
+4 my name is John_Long
+5 please tell me the room type you want to reserve .
+6 mini-suite .
+7 sir , when would you like to arrival the hotel ?
+8 i want to arrive on 09/26/2015 .
+9 sir , how many rooms do you want to book ?
+10 i want to book 95 rooms .
+11 what is your passport number , sir ?
+12 the passport number is 453167900 .
+13 sir , may i have your phone number ?
+14 0016175998151
+15 we have reserved for you .
+16 good , thanks .
+17 what is the client's name ?	John_Long	16
+18 when does the client check in ?	09/26/2015	16
+19 what is the passport number ?	453167900	16
+20 what is the room type ?	mini-suite	16
+21 how many rooms does the client book ?	95	16
+22 what is the contact number ?	0016175998151	16
+1 hi , this is hotel service center , what services you need ?
+2 yeah , please make a reservation for me .
+3 miss , tell me your arrival time , thanks .
+4 08/28/2014 is ok .
+5 hello miss , i need the passport number .
+6 403186517 .
+7 what is your phone number , miss ?
+8 the phone number 0016171000858 .
+9 miss , please let me know your name , thanks .
+10 name is Yolanda_Tree .
+11 please tell me the number of rooms .
+12 the number of roomss is 173 .
+13 miss , which type of hotel room to reserve ?
+14 double-double room .
+15 ok , have reserved for you .
+16 well , good , thanks very much .
+17 what is the client's name ?	Yolanda_Tree	16
+18 when does the client check in ?	08/28/2014	16
+19 what is the passport number ?	403186517	16
+20 what is the room type ?	double-double	16
+21 how many rooms does the client book ?	173	16
+22 what is the contact number ?	0016171000858	16
+1 good afternoon , this is hotel booking center .
+2 i would like to book a hotel .
+3 please tell me the guest's phone number .
+4 0016174310927
+5 hello miss , can i have your name ?
+6 Chloe_Wood
+7 miss , may i have your passport number , please ?
+8 267768509 , that is my number .
+9 hmm , the number of rooms please .
+10 the number of roomss is one .
+11 miss , what date will you check in on ?
+12 04/13/2016 .
+13 please tell me which kind of room do you need , miss ?
+14 studio .
+15 done , the hotel has been reserved for you , miss .
+16 hmm , thanks for you service .
+17 what is the client's name ?	Chloe_Wood	16
+18 when does the client check in ?	04/13/2016	16
+19 what is the passport number ?	267768509	16
+20 what is the room type ?	studio	16
+21 how many rooms does the client book ?	one	16
+22 what is the contact number ?	0016174310927	16
+1 good morning , hotel reception , what can i do for you ?
+2 yeah , i would like to make a hotel booking .
+3 ok , how many rooms ?
+4 i need 174 rooms .
+5 miss , the guest's passport number is ?
+6 ah , is 193539010 .
+7 what is your full name ?
+8 ok , name is Xochitl_Street
+9 miss , what date would you like me to book this hotel for ?
+10 i will check in on 09/18/2017 .
+11 please tell me the room type you want to reserve , miss .
+12 king
+13 miss , may i have your phone number ?
+14 the phone number is 0016171794279
+15 ok miss , it's done .
+16 well , good , thanks very much .
+17 what is the client's name ?	Xochitl_Street	16
+18 when does the client check in ?	09/18/2017	16
+19 what is the passport number ?	193539010	16
+20 what is the room type ?	king	16
+21 how many rooms does the client book ?	174	16
+22 what is the contact number ?	0016171794279	16
+1 hello , i am the hotel receptionist , what services you need ?
+2 i need to reserve a hotel .
+3 sir , the guest's passport number is ?
+4 765283765 .
+5 which kind of room do you want to book , sir ?
+6 king
+7 hello , i need your phone number .
+8 the phone number is 0016171734519
+9 sir , what is your check in date ?
+10 10/21/2016 .
+11 what is the number of rooms ? thanks .
+12 8 .
+13 what's your name , sir ?
+14 Erin_Arnot .
+15 ok , have reserved for you .
+16 ah , ok , thanks .
+17 what is the client's name ?	Erin_Arnot	16
+18 when does the client check in ?	10/21/2016	16
+19 what is the passport number ?	765283765	16
+20 what is the room type ?	king	16
+21 how many rooms does the client book ?	8	16
+22 what is the contact number ?	0016171734519	16
+1 hi , this is hotel booking center , what help you need ?
+2 hi , please help me reserve a hotel .
+3 sir , the guest's phone number is ?
+4 uh , 0016176032547
+5 get it , what is your passport number , sir ?
+6 686400803
+7 sir , please tell me your name , thanks very much .
+8 sure , i am Gavin_Wainwright
+9 ok sir , how many rooms ?
+10 seven rooms
+11 the arrival time is ?
+12 05/25/2014 .
+13 tell me which type of room do you like ?
+14 help me to reserve the studio room .
+15 we have reserved for you .
+16 well , good , thanks very much .
+17 what is the client's name ?	Gavin_Wainwright	16
+18 when does the client check in ?	05/25/2014	16
+19 what is the passport number ?	686400803	16
+20 what is the room type ?	studio	16
+21 how many rooms does the client book ?	seven	16
+22 what is the contact number ?	0016176032547	16
+1 good afternoon , this is hotel booking center .
+2 i want to reserve a hotel .
+3 sir , how many rooms you need ?
+4 please help me to book 22 .
+5 what date will you check in on ?
+6 i am making a reservation for 05/25/2014
+7 ok sir , please tell me which type of hotel room ?
+8 i need to book the suite room .
+9 please tell me your passport number , sir .
+10 831404205
+11 what's your name , sir ?
+12 Lynn_Eberhardt .
+13 please tell me your contact information .
+14 the phone number 0016172727088
+15 ok sir , it's done .
+16 well , good , thanks very much .
+17 what is the client's name ?	Lynn_Eberhardt	16
+18 when does the client check in ?	05/25/2014	16
+19 what is the passport number ?	831404205	16
+20 what is the room type ?	suite	16
+21 how many rooms does the client book ?	22	16
+22 what is the contact number ?	0016172727088	16
+1 good afternoon , this is hotel booking center , what help you need ?
+2 hello , i want to reserve a hotel .
+3 what type of room would you like ?
+4 double
+5 when will you check in ?
+6 need to check in on 12/22/2018 .
+7 sir , can you please tell me your name ?
+8 my name is Jessie_Richard
+9 hello sir , i need your passport number .
+10 the number is 522515796
+11 the number of rooms please ?
+12 please help me to book five rooms .
+13 ok sir , please tell me your phone number , thanks very much .
+14 0016176536084 .
+15 now you have been booked , sir .
+16 ok , thank you .
+17 what is the client's name ?	Jessie_Richard	16
+18 when does the client check in ?	12/22/2018	16
+19 what is the passport number ?	522515796	16
+20 what is the room type ?	double	16
+21 how many rooms does the client book ?	five	16
+22 what is the contact number ?	0016176536084	16
+1 hello , i am the hotel receptionist , what services you need ?
+2 hello , i want to reserve a hotel .
+3 miss , please tell me your name .
+4 Crystal_Smith .
+5 please tell me when do you want to check in ?
+6 01/21/2018
+7 miss , the guest's phone number is ?
+8 the phone number 0016171560636
+9 miss , what is the number of rooms ? thanks .
+10 four rooms .
+11 which kind of room do you need ?
+12 i want to book king
+13 well miss , your passport number , please .
+14 762314852 is my passport number .
+15 done , the hotel has been reserved for you , miss .
+16 thanks very much .
+17 what is the client's name ?	Crystal_Smith	16
+18 when does the client check in ?	01/21/2018	16
+19 what is the passport number ?	762314852	16
+20 what is the room type ?	king	16
+21 how many rooms does the client book ?	four	16
+22 what is the contact number ?	0016171560636	16
+1 hello , hotel service center , how can i help you ?
+2 i need to make hotel reservations .
+3 the phone number ?
+4 0016174311417 is my phone number .
+5 the number of rooms please ?
+6 the number of roomss is two .
+7 when do you want to check in ?
+8 on 11/26/2014 .
+9 miss , please tell me your name , thanks .
+10 uh , my name is Agnes_Graham .
+11 what is your passport number , miss ?
+12 ok , my passport number is 483155633
+13 please tell me which kind of room do you need ?
+14 twin room .
+15 done , the hotel has been reserved for you , miss .
+16 thanks very much !
+17 what is the client's name ?	Agnes_Graham	16
+18 when does the client check in ?	11/26/2014	16
+19 what is the passport number ?	483155633	16
+20 what is the room type ?	twin	16
+21 how many rooms does the client book ?	two	16
+22 what is the contact number ?	0016174311417	16
+1 hi , this is hotel booking center , what help you need ?
+2 yeah , i would like to book hotel .
+3 what should i call you ?
+4 George_Field .
+5 sir , what type of room would you like ?
+6 i want to reserve suite room .
+7 ok , how many rooms do you want ?
+8 47 rooms .
+9 get it , your phone number ?
+10 0016175089841 , that is my contact number .
+11 ok sir , your passport number ?
+12 the passport number 197301062
+13 ok , what is the date ?
+14 please reserve the hotel on 07/31/2014 .
+15 ok sir , it's done .
+16 so fast , thanks very much .
+17 what is the client's name ?	George_Field	16
+18 when does the client check in ?	07/31/2014	16
+19 what is the passport number ?	197301062	16
+20 what is the room type ?	suite	16
+21 how many rooms does the client book ?	47	16
+22 what is the contact number ?	0016175089841	16
+1 good afternoon , i am the hotel receptionist , what services you need ?
+2 hi , i want to make hotel reservations .
+3 get it , what is your passport number , sir ?
+4 uh , 218696948
+5 how many hotel rooms do you want ?
+6 nine .
+7 guest name , sir ?
+8 my full name is Jason_Forest
+9 when do you want to check in ?
+10 i'd like to book a hotel on 09/13/2016 .
+11 can you please tell me your telephone number , sir ?
+12 my cell number is 0016177708984
+13 what type of room would you like ?
+14 ah , need double-double room .
+15 ok sir , the hotel has been reserved for you .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Jason_Forest	16
+18 when does the client check in ?	09/13/2016	16
+19 what is the passport number ?	218696948	16
+20 what is the room type ?	double-double	16
+21 how many rooms does the client book ?	nine	16
+22 what is the contact number ?	0016177708984	16
+1 hello , this is hotel booking center .
+2 i need to book a hotel .
+3 we need to known your passport number , miss .
+4 the passport number 533516491
+5 please tell me which kind of room do you need , miss ?
+6 i need to book the double room .
+7 can you please tell me your telephone number ?
+8 0016178371594 .
+9 when would you like to arrival the hotel ?
+10 uh , the arrival time is 08/23/2017 .
+11 the number of rooms , miss ?
+12 85 rooms
+13 what is the user name ?
+14 ah , my name is Winnie_Eberhardt .
+15 done , the hotel has been reserved for you .
+16 ah , ok , thanks .
+17 what is the client's name ?	Winnie_Eberhardt	16
+18 when does the client check in ?	08/23/2017	16
+19 what is the passport number ?	533516491	16
+20 what is the room type ?	double	16
+21 how many rooms does the client book ?	85	16
+22 what is the contact number ?	0016178371594	16
+1 good morning , hotel reception , may i help you ?
+2 yeah , please make a reservation for me .
+3 sir , how many rooms do you want to book ?
+4 98
+5 please tell me when do you want to check in , sir ?
+6 i need a reservation on 07/25/2017
+7 what is the user name ?
+8 ah , my name is Jerry_Short .
+9 what type of room would you like ?
+10 uh , help me to book the triple: room .
+11 get it , your phone number ?
+12 my phone number is 0016177258261 .
+13 ok sir , your passport number ?
+14 ok , my passport number is 890938370
+15 done , the hotel has been reserved for you .
+16 ah , ok , thanks .
+17 what is the client's name ?	Jerry_Short	16
+18 when does the client check in ?	07/25/2017	16
+19 what is the passport number ?	890938370	16
+20 what is the room type ?	triple:	16
+21 how many rooms does the client book ?	98	16
+22 what is the contact number ?	0016177258261	16
+1 good morning , i am the hotel receptionist , what services you need ?
+2 please make a reservation for me .
+3 which kind of room do you need ?
+4 reserve the double-double room , thanks .
+5 ok , what is the time ?
+6 02/23/2014
+7 hmm sir , the phone number ? thanks .
+8 0016177952206
+9 passport number , sir ?
+10 the passport number is 891355221 .
+11 hello , can i have your name ?
+12 my full name is Lance_Wright
+13 ok , how many rooms ?
+14 132 hotel rooms .
+15 ok sir , it's done .
+16 good , thanks .
+17 what is the client's name ?	Lance_Wright	16
+18 when does the client check in ?	02/23/2014	16
+19 what is the passport number ?	891355221	16
+20 what is the room type ?	double-double	16
+21 how many rooms does the client book ?	132	16
+22 what is the contact number ?	0016177952206	16
+1 good afternoon , this is hotel service center . what can i do for you ?
+2 i need to reserve a hotel .
+3 how many rooms you need ?
+4 79 rooms .
+5 sir , the guest's passport number is ?
+6 626980207
+7 which kind of room do you want to select ?
+8 room type is studio .
+9 sir , what is your check in date ?
+10 i will check in on 01/19/2014 .
+11 your contact number , sir ?
+12 0016176707905 is my phone number .
+13 sir , your name , please .
+14 Erin_Street .
+15 now you have been booked .
+16 thanks very much !
+17 what is the client's name ?	Erin_Street	16
+18 when does the client check in ?	01/19/2014	16
+19 what is the passport number ?	626980207	16
+20 what is the room type ?	studio	16
+21 how many rooms does the client book ?	79	16
+22 what is the contact number ?	0016176707905	16
+1 good afternoon , hotel service center , how can i help you ?
+2 hi , i want to make hotel reservations .
+3 what is your passport number , sir ?
+4 767922309 is my passport number .
+5 please tell me when do you want to check in , sir ?
+6 i want to arrive on 11/14/2017 .
+7 what is your name , please ?
+8 name is Vivian_Plimmer
+9 please tell me the room type you want to reserve .
+10 i want to book the single room .
+11 how many rooms , sir ?
+12 booking six rooms please .
+13 may i have your cell phone number ?
+14 0016172437543 .
+15 we have reserved for you .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Vivian_Plimmer	16
+18 when does the client check in ?	11/14/2017	16
+19 what is the passport number ?	767922309	16
+20 what is the room type ?	single	16
+21 how many rooms does the client book ?	six	16
+22 what is the contact number ?	0016172437543	16
+1 hello , this is hotel service center . what can i do for you ?
+2 hello , i need to book a hotel .
+3 sir , the arrival time is ?
+4 please reserve the hotel on 12/16/2014 .
+5 i see , please tell me your passport number , sir .
+6 538892078 , my passport number .
+7 guest name , sir ?
+8 sure , i am Nancy_Cartwright
+9 how many rooms do you want ?
+10 i want to reserve four rooms .
+11 can you please tell me your telephone number ?
+12 uh ，is 0016178058249 .
+13 which type of hotel room to reserve ?
+14 twin .
+15 ok , the hotel has been reserved for you .
+16 wonderful , thank you .
+17 what is the client's name ?	Nancy_Cartwright	16
+18 when does the client check in ?	12/16/2014	16
+19 what is the passport number ?	538892078	16
+20 what is the room type ?	twin	16
+21 how many rooms does the client book ?	four	16
+22 what is the contact number ?	0016178058249	16
+1 good morning , hotel reception , what can i do for you ?
+2 please make a reservation for me .
+3 miss , guest name , please .
+4 Sabrina_Baker
+5 please tell me your passport number , miss .
+6 406276507 , that is my number .
+7 what is your check in date ?
+8 please reserve the hotel on 05/27/2017 .
+9 miss , contact number ? thanks .
+10 hmm , my phone number is 0016171595229
+11 how many hotel rooms do you want , miss ?
+12 nine rooms .
+13 which kind of room do you need ?
+14 quad room is ok .
+15 we have reserved for you , miss .
+16 thanks very much
+17 what is the client's name ?	Sabrina_Baker	16
+18 when does the client check in ?	05/27/2017	16
+19 what is the passport number ?	406276507	16
+20 what is the room type ?	quad	16
+21 how many rooms does the client book ?	nine	16
+22 what is the contact number ?	0016171595229	16
+1 good morning , hotel service center , how can i help you ?
+2 i would like to book a hotel .
+3 hello miss , i need the passport number .
+4 530838453 is my passport number .
+5 i need to know your name .
+6 name is Rebecca_Cartwright .
+7 get it miss , please tell me how many rooms .
+8 ten hotel rooms
+9 miss , tell me your arrival time , thanks .
+10 03/27/2017 .
+11 hmm , the phone number ? thanks .
+12 0016177716941 .
+13 miss , which kind of room do you need ?
+14 quad room is okey .
+15 ok miss , it's done .
+16 thanks very much !
+17 what is the client's name ?	Rebecca_Cartwright	16
+18 when does the client check in ?	03/27/2017	16
+19 what is the passport number ?	530838453	16
+20 what is the room type ?	quad	16
+21 how many rooms does the client book ?	ten	16
+22 what is the contact number ?	0016177716941	16
+1 good morning , this is hotel booking center .
+2 yeah , i'd like to reserve a hotel .
+3 sir , your passport number , please .
+4 my passport number is 880626345 .
+5 tell me your arrival time , thanks .
+6 i want to arrive on 09/20/2014 .
+7 please tell me which kind of room do you need ?
+8 i plan to book the double room .
+9 sir , may i have your phone number ?
+10 0016173801625 , that is my contact number .
+11 guest name , please .
+12 Joy_Bush .
+13 how many rooms do you want ?
+14 eight rooms .
+15 done , the hotel has been reserved for you , sir .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Joy_Bush	16
+18 when does the client check in ?	09/20/2014	16
+19 what is the passport number ?	880626345	16
+20 what is the room type ?	double	16
+21 how many rooms does the client book ?	eight	16
+22 what is the contact number ?	0016173801625	16
+1 good morning , i am the hotel receptionist , what services you need ?
+2 hello , i need to book a hotel .
+3 please tell me the guest's phone number , miss .
+4 the phone number is 0016178630039 .
+5 we need to known your passport number , miss .
+6 ah , is 231332836 .
+7 how many hotel rooms do you want to reserve ?
+8 i want to reserve three
+9 which kind of room ?
+10 please help me to book the queen room .
+11 please let me know your name .
+12 my name is Nicole_Eberhardt .
+13 what is your check in date ?
+14 i'd like to book a hotel on 04/14/2014 .
+15 done , the hotel has been reserved for you , miss .
+16 good , thanks .
+17 what is the client's name ?	Nicole_Eberhardt	16
+18 when does the client check in ?	04/14/2014	16
+19 what is the passport number ?	231332836	16
+20 what is the room type ?	queen	16
+21 how many rooms does the client book ?	three	16
+22 what is the contact number ?	0016178630039	16
+1 good morning , this is hotel service center , what services you need ?
+2 i want to make hotel reservations .
+3 may i have your name , please ?
+4 Jonny_Williams
+5 when are you arriving , sir ?
+6 i'd like to book a hotel on 02/14/2016 .
+7 may i have your passport number , sir .
+8 the passport number is 753096920 .
+9 which kind of room ?
+10 twin room .
+11 hmm , the number of rooms please .
+12 i want to reserve 192
+13 what is your phone number , sir ?
+14 the phone number is 0016175784492 .
+15 done , the hotel has been reserved for you , sir .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Jonny_Williams	16
+18 when does the client check in ?	02/14/2016	16
+19 what is the passport number ?	753096920	16
+20 what is the room type ?	twin	16
+21 how many rooms does the client book ?	192	16
+22 what is the contact number ?	0016175784492	16
+1 good morning , this is hotel booking center , what help you need ?
+2 i need to make hotel reservations .
+3 miss , how many rooms you need ?
+4 three
+5 ok miss , please tell me which type of hotel room ?
+6 ah , need studio room .
+7 when do you want to check in ?
+8 01/18/2015 is ok .
+9 please tell me your passport number , miss .
+10 409827055 .
+11 could you please tell me your name , miss .
+12 name is Sunny_Tree
+13 miss , may i have your phone number ?
+14 0016174145332 is my phone number .
+15 ok miss , have reserved for you .
+16 good , thanks .
+17 what is the client's name ?	Sunny_Tree	16
+18 when does the client check in ?	01/18/2015	16
+19 what is the passport number ?	409827055	16
+20 what is the room type ?	studio	16
+21 how many rooms does the client book ?	three	16
+22 what is the contact number ?	0016174145332	16
+1 good morning , this is hotel service center , what services you need ?
+2 hello , i need to book a hotel .
+3 ok sir , how many rooms ?
+4 please help me to book 157 rooms .
+5 sir , which type of hotel room to reserve ?
+6 reserve quad room
+7 sir , your passport number , please .
+8 the number 523483073
+9 the phone number ?
+10 hmm , my phone number is 0016171650878
+11 sir , the arrival time is ?
+12 need to check in on 04/18/2017 .
+13 name ?
+14 my name is Robert_Weber
+15 we have reserved for you , sir .
+16 thanks very much !
+17 what is the client's name ?	Robert_Weber	16
+18 when does the client check in ?	04/18/2017	16
+19 what is the passport number ?	523483073	16
+20 what is the room type ?	quad	16
+21 how many rooms does the client book ?	157	16
+22 what is the contact number ?	0016171650878	16
+1 good afternoon , this is hotel service center . what can i do for you ?
+2 hi , please help me reserve a hotel .
+3 miss , guest name , please .
+4 uh , my name is Laura_Lake .
+5 ok , which type of room ?
+6 twin
+7 may i have your cell phone number ?
+8 0016177443227 , my phone number .
+9 get it , please tell me how many rooms .
+10 reserve one please .
+11 when will you arrival , miss ?
+12 10/30/2013
+13 hello miss , i need the passport number .
+14 ok , my passport number is 545206075
+15 now you have been booked , miss .
+16 good , thanks .
+17 what is the client's name ?	Laura_Lake	16
+18 when does the client check in ?	10/30/2013	16
+19 what is the passport number ?	545206075	16
+20 what is the room type ?	twin	16
+21 how many rooms does the client book ?	one	16
+22 what is the contact number ?	0016177443227	16
+1 hi , hotel reception , what can i do for you ?
+2 hello , i want to reserve a hotel .
+3 how many hotel rooms do you want to reserve , miss ?
+4 i want to book nine rooms .
+5 miss , what date will you check in on ?
+6 05/18/2016 .
+7 get it , what is your passport number , miss ?
+8 ah , is 456313480 .
+9 what is your phone number , miss ?
+10 my contact number is 0016177130648
+11 miss , please tell me your name , thanks .
+12 i'm Natalie_Price
+13 miss , which type of hotel room to book ?
+14 i plan to book the single room .
+15 ok miss , have reserved for you .
+16 ok , thank you .
+17 what is the client's name ?	Natalie_Price	16
+18 when does the client check in ?	05/18/2016	16
+19 what is the passport number ?	456313480	16
+20 what is the room type ?	single	16
+21 how many rooms does the client book ?	nine	16
+22 what is the contact number ?	0016177130648	16
+1 good morning , this is hotel service center , what services you need ?
+2 i would like to book a hotel .
+3 which kind of room do you want to book , miss ?
+4 ah , need single room .
+5 ok miss , please tell me your phone number , thanks very much .
+6 0016172016193
+7 miss , what is your name , please ?
+8 i'm Tina_Good
+9 miss , how many rooms do you want to book ?
+10 ten rooms
+11 miss , the guest's passport number is ?
+12 562417181
+13 miss , the arrival time is ?
+14 i want to check in on 01/26/2017 .
+15 done , the hotel has been reserved for you , miss .
+16 so fast , thanks very much .
+17 what is the client's name ?	Tina_Good	16
+18 when does the client check in ?	01/26/2017	16
+19 what is the passport number ?	562417181	16
+20 what is the room type ?	single	16
+21 how many rooms does the client book ?	ten	16
+22 what is the contact number ?	0016172016193	16
+1 good afternoon , hotel service center , how can i help you ?
+2 i need to reserve a hotel .
+3 please tell me your contact information .
+4 the phone number 0016171362385
+5 ok sir , how many rooms ?
+6 booking eight rooms please .
+7 please let me know your name , thanks .
+8 ok , name is Harry_Nixon
+9 sir , passport number , thanks .
+10 the number 622150804
+11 when are you arriving , sir ?
+12 uh , the arrival time is 04/24/2016 .
+13 which kind of room do you need ?
+14 i want to book suite
+15 done , the hotel has been reserved for you , sir .
+16 thanks very much !
+17 what is the client's name ?	Harry_Nixon	16
+18 when does the client check in ?	04/24/2016	16
+19 what is the passport number ?	622150804	16
+20 what is the room type ?	suite	16
+21 how many rooms does the client book ?	eight	16
+22 what is the contact number ?	0016171362385	16
+1 hi , hotel reception , may i help you ?
+2 hi , please help me reserve a hotel .
+3 ok , what is the time ?
+4 01/15/2014
+5 which kind of room do you want to book , miss ?
+6 room type is quad .
+7 get it , what is your passport number , miss ?
+8 the number is 340140203 .
+9 how many hotel rooms do you want ?
+10 i want to reserve two rooms .
+11 ok miss , please tell me your phone number , thanks very much .
+12 0016173656112 .
+13 may i know your name , miss ?
+14 ah , my name is Kate_Arnot .
+15 done , the hotel has been reserved for you , miss .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Kate_Arnot	16
+18 when does the client check in ?	01/15/2014	16
+19 what is the passport number ?	340140203	16
+20 what is the room type ?	quad	16
+21 how many rooms does the client book ?	two	16
+22 what is the contact number ?	0016173656112	16
+1 good morning , i am the hotel receptionist , what services you need ?
+2 i need to make hotel reservations .
+3 we need to know your phone number .
+4 the phone number 0016172487317 .
+5 the number of rooms , miss ?
+6 please help me to book four .
+7 ok miss , what is the time ?
+8 i want to check in on 12/25/2014 .
+9 miss , may i have your passport number , please ?
+10 755634862 .
+11 miss , what type of room would you like ?
+12 mini-suite room is ok .
+13 miss , guest name , please .
+14 uh , my name is Teresa_Dixon .
+15 ok , have reserved for you .
+16 thanks very much .
+17 what is the client's name ?	Teresa_Dixon	16
+18 when does the client check in ?	12/25/2014	16
+19 what is the passport number ?	755634862	16
+20 what is the room type ?	mini-suite	16
+21 how many rooms does the client book ?	four	16
+22 what is the contact number ?	0016172487317	16
+1 good afternoon , this is hotel service center , what services you need ?
+2 please make a reservation for me .
+3 what is your phone number , sir ?
+4 the phone number is 0016172074214 .
+5 hello , can i have your name ?
+6 is Andy_Long .
+7 which kind of room , sir ?
+8 booking the quad room is ok .
+9 may i have your passport number , sir .
+10 my passport number is 544117357 .
+11 ok , what is the date ?
+12 10/17/2017 .
+13 the number of rooms please ?
+14 six .
+15 now you have been booked , sir .
+16 wonderful , thank you .
+17 what is the client's name ?	Andy_Long	16
+18 when does the client check in ?	10/17/2017	16
+19 what is the passport number ?	544117357	16
+20 what is the room type ?	quad	16
+21 how many rooms does the client book ?	six	16
+22 what is the contact number ?	0016172074214	16
+1 hello , hotel service center , how can i help you ?
+2 i need to book a hotel .
+3 ok sir , please tell me your passport number , thanks very much .
+4 695986515 .
+5 sir , when do you want to check in ?
+6 the arrival date is 09/19/2014 .
+7 what's your phone number ?
+8 the phone number 0016174406492
+9 sir , what is your name , please ?
+10 uh , my name is Gary_Wainwright .
+11 sir , which kind of room do you want to select ?
+12 single room is ok .
+13 how many rooms ?
+14 please help me to book eight rooms .
+15 ok sir , have reserved for you .
+16 good , thanks .
+17 what is the client's name ?	Gary_Wainwright	16
+18 when does the client check in ?	09/19/2014	16
+19 what is the passport number ?	695986515	16
+20 what is the room type ?	single	16
+21 how many rooms does the client book ?	eight	16
+22 what is the contact number ?	0016174406492	16
+1 good afternoon , this is hotel service center . what can i do for you ?
+2 yeah , please make a reservation for me .
+3 what is your check in date ?
+4 i'd like to check in on 01/25/2014
+5 hello miss , i need the passport number .
+6 uh , is 449462963 .
+7 please tell me your contact information miss .
+8 0016175846198 , my phone number .
+9 what is your full name , miss ?
+10 ok , name is Amber_George
+11 please tell me the room type you want to reserve .
+12 studio is ok .
+13 what is the number of rooms ? thanks .
+14 79 hotel rooms
+15 ok , have reserved for you .
+16 ok , thank you .
+17 what is the client's name ?	Amber_George	16
+18 when does the client check in ?	01/25/2014	16
+19 what is the passport number ?	449462963	16
+20 what is the room type ?	studio	16
+21 how many rooms does the client book ?	79	16
+22 what is the contact number ?	0016175846198	16
+1 good afternoon , hotel reception , what can i do for you ?
+2 hello , i need to book a hotel .
+3 ok , what is the time ?
+4 i want to arrive on 05/26/2016 .
+5 which kind of room do you want to select ?
+6 i need to book the double room .
+7 can you please tell me your telephone number ?
+8 0016174517755
+9 what is your name ?
+10 my name is Max_Wettin .
+11 please tell me the passport number , sir .
+12 249431619 .
+13 how many rooms do you want to book ?
+14 i need 165 rooms .
+15 we have reserved for you , sir .
+16 so fast , thanks very much .
+17 what is the client's name ?	Max_Wettin	16
+18 when does the client check in ?	05/26/2016	16
+19 what is the passport number ?	249431619	16
+20 what is the room type ?	double	16
+21 how many rooms does the client book ?	165	16
+22 what is the contact number ?	0016174517755	16
+1 hello , i am the hotel receptionist , what services you need ?
+2 hi , please help me book a hotel .
+3 miss , please tell me your name , thanks very much .
+4 Fanny_Plimmer .
+5 how many rooms you need ?
+6 130 .
+7 please tell me the room type you want to reserve , miss .
+8 i want to book single
+9 when would you like to arrival the hotel ?
+10 please reserve the hotel on 06/24/2014 .
+11 can you please tell me your telephone number , miss ?
+12 0016174638770
+13 ok miss , your passport number ?
+14 841723285 .
+15 now you have been booked , miss .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Fanny_Plimmer	16
+18 when does the client check in ?	06/24/2014	16
+19 what is the passport number ?	841723285	16
+20 what is the room type ?	single	16
+21 how many rooms does the client book ?	130	16
+22 what is the contact number ?	0016174638770	16
+1 good morning , i am the hotel receptionist , what services you need ?
+2 yeah , i'd like to reserve a hotel .
+3 sir , how many rooms do you want ?
+4 reserve 72 please .
+5 hello sir , we need your contact information .
+6 0016171983762
+7 please tell me your full name , sir .
+8 yeah , i am Louis_Lake .
+9 what is your passport number , sir ?
+10 is 226030715
+11 sir , which kind of room do you want to select ?
+12 book studio room
+13 sir , the arrival time is ?
+14 i'd like to check in on 10/20/2015
+15 ok sir , have reserved for you .
+16 ah , ok , thanks .
+17 what is the client's name ?	Louis_Lake	16
+18 when does the client check in ?	10/20/2015	16
+19 what is the passport number ?	226030715	16
+20 what is the room type ?	studio	16
+21 how many rooms does the client book ?	72	16
+22 what is the contact number ?	0016171983762	16
+1 good morning , this is hotel service center , what services you need ?
+2 yeah , i would like to make a hotel reservation .
+3 ok miss , please tell me your passport number , thanks very much .
+4 329076921 is my passport number .
+5 your name ?
+6 my name is Cynthia_Lake .
+7 which type of room , miss ?
+8 i want to book studio
+9 how many rooms do you want to reserve ?
+10 reserve six please .
+11 ok , please tell me your arrival time .
+12 i need a reservation on 11/14/2015
+13 hmm , the phone number ? thanks .
+14 ah , 0016176985010
+15 ok , the hotel has been reserved for you .
+16 ah , ok , thanks .
+17 what is the client's name ?	Cynthia_Lake	16
+18 when does the client check in ?	11/14/2015	16
+19 what is the passport number ?	329076921	16
+20 what is the room type ?	studio	16
+21 how many rooms does the client book ?	six	16
+22 what is the contact number ?	0016176985010	16
+1 good afternoon , this is hotel service center . what can i do for you ?
+2 i need to reserve a hotel .
+3 sir , how many rooms do you want to book ?
+4 three hotel rooms .
+5 get it sir , your phone number ?
+6 the phone number is 0016174623738 .
+7 ok , please tell me which type of hotel room ?
+8 ah , need studio room .
+9 i see , please tell me your passport number , sir .
+10 148377211 , that is my number .
+11 what date will you check in on ?
+12 08/14/2015 .
+13 please tell me your full name , sir .
+14 name is Jason_Forest .
+15 ok sir , the hotel has been reserved for you .
+16 thanks very much .
+17 what is the client's name ?	Jason_Forest	16
+18 when does the client check in ?	08/14/2015	16
+19 what is the passport number ?	148377211	16
+20 what is the room type ?	studio	16
+21 how many rooms does the client book ?	three	16
+22 what is the contact number ?	0016174623738	16
+1 hi , this is hotel service center , what services you need ?
+2 hello , i need to reserve a hotel .
+3 how many hotel rooms do you want ?
+4 five rooms .
+5 sir , what is your check in date ?
+6 need to check in on 02/22/2017 .
+7 please tell me the guest's phone number , sir .
+8 uh ，is 0016173341673 .
+9 sir , the guest's passport number is ?
+10 the passport number 443280849
+11 tell me which type of room do you like ?
+12 mini-suite room
+13 what is the name of the guest , sir ?
+14 Lucas_Field
+15 now you have been booked .
+16 so fast , thanks very much .
+17 what is the client's name ?	Lucas_Field	16
+18 when does the client check in ?	02/22/2017	16
+19 what is the passport number ?	443280849	16
+20 what is the room type ?	mini-suite	16
+21 how many rooms does the client book ?	five	16
+22 what is the contact number ?	0016173341673	16
+1 hi , this is hotel booking center , what help you need ?
+2 yeah , i'd like to reserve a hotel .
+3 ok sir , your passport number ?
+4 368624972
+5 how many hotel rooms do you want to reserve ?
+6 reserve nine rooms for me , please .
+7 your name , please .
+8 yeah , i am Oliver_Robinson .
+9 the guest's phone number is ?
+10 contact number 0016176994548
+11 tell me your arrival time , thanks .
+12 i will arrive on 11/14/2015 .
+13 please tell me the room type you want to reserve , sir .
+14 ah , need triple: room .
+15 ok sir , the hotel has been reserved for you .
+16 ok , thank you .
+17 what is the client's name ?	Oliver_Robinson	16
+18 when does the client check in ?	11/14/2015	16
+19 what is the passport number ?	368624972	16
+20 what is the room type ?	triple:	16
+21 how many rooms does the client book ?	nine	16
+22 what is the contact number ?	0016176994548	16
+1 hi , hotel reception , what can i do for you ?
+2 hello , i want to reserve a hotel .
+3 sir , which type of hotel room to book ?
+4 i want to reserve single room .
+5 please tell me the guest's phone number .
+6 uh ，is 0016173027870 .
+7 sir , what is the number of rooms ? thanks .
+8 two rooms
+9 what is your full name ?
+10 the name is Lucas_Tree .
+11 ok sir , please tell me your passport number , thanks very much .
+12 190001300 is my number .
+13 what date would you like me to book this hotel for ?
+14 i need a reservation on 01/26/2019
+15 we have reserved for you .
+16 thanks very much
+17 what is the client's name ?	Lucas_Tree	16
+18 when does the client check in ?	01/26/2019	16
+19 what is the passport number ?	190001300	16
+20 what is the room type ?	single	16
+21 how many rooms does the client book ?	two	16
+22 what is the contact number ?	0016173027870	16
+1 good morning , this is hotel booking center , what help you need ?
+2 i want to make hotel reservations .
+3 hello , i need your phone number .
+4 my phone number is 0016172750962 .
+5 may i know your name , sir ?
+6 ok , Joyce_Street
+7 when are you arriving , sir ?
+8 06/24/2015 .
+9 sir , tell me which type of room do you like ?
+10 king room
+11 sir , the guest's passport number is ?
+12 ok , the number is 273948144 .
+13 the number of rooms ? thanks .
+14 four .
+15 ok , the hotel has been reserved for you .
+16 well , good , thanks very much .
+17 what is the client's name ?	Joyce_Street	16
+18 when does the client check in ?	06/24/2015	16
+19 what is the passport number ?	273948144	16
+20 what is the room type ?	king	16
+21 how many rooms does the client book ?	four	16
+22 what is the contact number ?	0016172750962	16
+1 good morning , this is hotel booking center , what help you need ?
+2 yeah , i would like to make a hotel booking .
+3 miss , when would you like to arrival the hotel ?
+4 02/19/2014 .
+5 miss , your passport number , please .
+6 my passport number is 214319598 .
+7 what is the user name , miss ?
+8 Tiffany_Williamson
+9 which kind of room do you want to book ?
+10 reserve twin room
+11 how many hotel rooms do you want ?
+12 reserve five please .
+13 your contact number ?
+14 the number is 0016175094026
+15 we have reserved for you , miss .
+16 thanks very much .
+17 what is the client's name ?	Tiffany_Williamson	16
+18 when does the client check in ?	02/19/2014	16
+19 what is the passport number ?	214319598	16
+20 what is the room type ?	twin	16
+21 how many rooms does the client book ?	five	16
+22 what is the contact number ?	0016175094026	16
+1 good morning , hotel service center , how can i help you ?
+2 hello , i need to reserve a hotel .
+3 what is your passport number , miss ?
+4 190818054 is my number .
+5 hmm miss , the phone number ? thanks .
+6 the phone number 0016174333645 .
+7 how many hotel rooms do you want ?
+8 ten hotel rooms
+9 guest name , please .
+10 is Sherry_Jones .
+11 which type of room , miss ?
+12 i need to book the suite room .
+13 ok miss , please tell me your arrival time .
+14 i will check in on 01/14/2017 .
+15 ok miss , the hotel has been reserved for you .
+16 thanks very much !
+17 what is the client's name ?	Sherry_Jones	16
+18 when does the client check in ?	01/14/2017	16
+19 what is the passport number ?	190818054	16
+20 what is the room type ?	suite	16
+21 how many rooms does the client book ?	ten	16
+22 what is the contact number ?	0016174333645	16
+1 hi , hotel reception , may i help you ?
+2 i need to book a hotel .
+3 miss , the number of rooms ? thanks .
+4 i want to reserve two rooms .
+5 well miss , your passport number , please .
+6 is 674505205
+7 miss , can you please tell me your name ?
+8 is Maggie_Wainwright .
+9 which kind of room ?
+10 suite
+11 hello , i need your phone number .
+12 my phone number would be 0016173457638
+13 please tell me when do you want to check in , miss ?
+14 i need a reservation on 01/26/2019
+15 done , the hotel has been reserved for you , miss .
+16 ok , thank you .
+17 what is the client's name ?	Maggie_Wainwright	16
+18 when does the client check in ?	01/26/2019	16
+19 what is the passport number ?	674505205	16
+20 what is the room type ?	suite	16
+21 how many rooms does the client book ?	two	16
+22 what is the contact number ?	0016173457638	16
+1 good afternoon , hotel service center , how can i help you ?
+2 please make a reservation for me .
+3 could you tell me the passport number , sir ?
+4 the number is 159791218 .
+5 guest name ?
+6 Lewis_Jordan is my name
+7 get it , please tell me how many rooms .
+8 please help me to book five rooms .
+9 the phone number , sir ?
+10 the phone number is 0016172619042 .
+11 ok , please tell me your arrival time .
+12 i'd like to book a hotel on 06/24/2016 .
+13 sir , which type of hotel room to reserve ?
+14 queen .
+15 ok sir , it's done .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Lewis_Jordan	16
+18 when does the client check in ?	06/24/2016	16
+19 what is the passport number ?	159791218	16
+20 what is the room type ?	queen	16
+21 how many rooms does the client book ?	five	16
+22 what is the contact number ?	0016172619042	16
+1 good afternoon , this is hotel service center , what services you need ?
+2 yeah , i would like to make a hotel booking .
+3 sir , what date would you like me to book this hotel for ?
+4 i am making a reservation for 07/29/2015
+5 which kind of room ?
+6 i want to book the twin room .
+7 please tell me your passport number , sir .
+8 the number is 409431825 .
+9 what is your phone number ?
+10 the number is 0016177760789
+11 what is the number of rooms ? thanks .
+12 please help me to book 86 .
+13 guest name , please .
+14 ah , my name is Alan_Wright .
+15 done , the hotel has been reserved for you .
+16 thanks very much
+17 what is the client's name ?	Alan_Wright	16
+18 when does the client check in ?	07/29/2015	16
+19 what is the passport number ?	409431825	16
+20 what is the room type ?	twin	16
+21 how many rooms does the client book ?	86	16
+22 what is the contact number ?	0016177760789	16
+1 good afternoon , this is hotel service center . what can i do for you ?
+2 i want to make hotel reservations .
+3 sir , please tell me your name , thanks .
+4 hi , my name is Kelly_Nixon .
+5 sir , which type of hotel room to reserve ?
+6 double is ok .
+7 can you please tell me your telephone number , sir ?
+8 ah , 0016174480092
+9 ok sir , your passport number ?
+10 280440633 is my passport number .
+11 ok , please tell me your arrival time .
+12 06/14/2018 .
+13 how many hotel rooms do you want , sir ?
+14 i want to reserve five
+15 now you have been booked .
+16 so fast , thanks very much .
+17 what is the client's name ?	Kelly_Nixon	16
+18 when does the client check in ?	06/14/2018	16
+19 what is the passport number ?	280440633	16
+20 what is the room type ?	double	16
+21 how many rooms does the client book ?	five	16
+22 what is the contact number ?	0016174480092	16
+1 hello , this is hotel booking center .
+2 yeah , i would like to book hotel .
+3 miss , your passport number , please .
+4 641849414
+5 the number of rooms please ?
+6 i want to book 58 rooms .
+7 miss , which kind of room do you need ?
+8 book double-double room
+9 ok , what is the date ?
+10 i am making a reservation for 01/22/2014
+11 miss , contact number ? thanks .
+12 0016176543678
+13 what is the user name , miss ?
+14 is Aimee_Parker .
+15 we have reserved for you .
+16 ah , ok , thanks .
+17 what is the client's name ?	Aimee_Parker	16
+18 when does the client check in ?	01/22/2014	16
+19 what is the passport number ?	641849414	16
+20 what is the room type ?	double-double	16
+21 how many rooms does the client book ?	58	16
+22 what is the contact number ?	0016176543678	16
+1 good afternoon , hotel reception , what can i do for you ?
+2 yeah , i would like to book hotel .
+3 ok miss , your passport number ?
+4 188374999
+5 miss , can you please tell me your name ?
+6 Cynthia_Short
+7 miss , which kind of room do you want to select ?
+8 reserve the triple: room , thanks .
+9 when do you want to check in ?
+10 uh , the arrival time is 09/20/2018 .
+11 please tell me your contact information miss .
+12 uh ，is 0016175909733 .
+13 how many rooms do you want to reserve ?
+14 please help me to book 112 rooms .
+15 now you have been booked .
+16 thanks very much .
+17 what is the client's name ?	Cynthia_Short	16
+18 when does the client check in ?	09/20/2018	16
+19 what is the passport number ?	188374999	16
+20 what is the room type ?	triple:	16
+21 how many rooms does the client book ?	112	16
+22 what is the contact number ?	0016175909733	16
+1 good morning , this is hotel booking center , what help you need ?
+2 hello , i need to reserve a hotel .
+3 miss , contact number ? thanks .
+4 0016175247248 is my phone number .
+5 ok , what is the date ?
+6 08/14/2018
+7 miss , may i have your passport number , please ?
+8 424241449
+9 please tell me your name , thanks .
+10 Ada_Anjou .
+11 how many hotel rooms do you want , miss ?
+12 the number of roomss is 68 .
+13 please tell me which kind of room do you need , miss ?
+14 please help me to book the double room .
+15 we have reserved for you .
+16 thanks very much
+17 what is the client's name ?	Ada_Anjou	16
+18 when does the client check in ?	08/14/2018	16
+19 what is the passport number ?	424241449	16
+20 what is the room type ?	double	16
+21 how many rooms does the client book ?	68	16
+22 what is the contact number ?	0016175247248	16
+1 good morning , hotel reception , may i help you ?
+2 i want to reserve a hotel .
+3 miss , which kind of room do you want to select ?
+4 twin
+5 what is the number of rooms ? thanks .
+6 i want to reserve 170
+7 what is your passport number , miss ?
+8 264752280
+9 miss , guest name , please .
+10 Vivi_Arnot is my name
+11 please tell me the guest's phone number .
+12 my phone number is 0016171751808 .
+13 when will you arrival ?
+14 04/15/2016 .
+15 done , the hotel has been reserved for you .
+16 eh , ok , thanks for your service .
+17 what is the client's name ?	Vivi_Arnot	16
+18 when does the client check in ?	04/15/2016	16
+19 what is the passport number ?	264752280	16
+20 what is the room type ?	twin	16
+21 how many rooms does the client book ?	170	16
+22 what is the contact number ?	0016171751808	16
+1 good afternoon , hotel reception , what can i do for you ?
+2 hi , please help me book a hotel .
+3 how many hotel rooms do you want to reserve , sir ?
+4 i want to book 77 rooms .
+5 get it , please tell me your phone number .
+6 the phone number 0016176232284
+7 sir , guest name , please .
+8 Jon_Edward
+9 when are you arriving , sir ?
+10 i plan to check in on 11/18/2018 .
+11 get it , what is your passport number , sir ?
+12 the number is 620642099
+13 ok , which type of room do you like ?
+14 queen room is ok .
+15 ok , the hotel has been reserved for you .
+16 good , thanks .
+17 what is the client's name ?	Jon_Edward	16
+18 when does the client check in ?	11/18/2018	16
+19 what is the passport number ?	620642099	16
+20 what is the room type ?	queen	16
+21 how many rooms does the client book ?	77	16
+22 what is the contact number ?	0016176232284	16
+1 hi , hotel reception , what can i do for you ?
+2 yeah , i need to book a hotel .
+3 hmm , the phone number ? thanks .
+4 contact number 0016172345571
+5 what is the number of rooms ? thanks .
+6 reserve 82 please .
+7 please tell me when do you want to check in ?
+8 the date is 10/18/2016 .
+9 what is the user name , miss ?
+10 hi , my name is Jenny_Bush .
+11 get it , what is your passport number , miss ?
+12 ok , my passport number is 170394305
+13 miss , which type of hotel room to book ?
+14 mini-suite room
+15 now you have been booked , miss .
+16 hmm , thanks for you service .
+17 what is the client's name ?	Jenny_Bush	16
+18 when does the client check in ?	10/18/2016	16
+19 what is the passport number ?	170394305	16
+20 what is the room type ?	mini-suite	16
+21 how many rooms does the client book ?	82	16
+22 what is the contact number ?	0016172345571	16
+1 good afternoon , this is hotel booking center , what help you need ?
+2 i want to make hotel reservations .
+3 the number of rooms , sir ?
+4 165 rooms .
+5 sir , contact number ? thanks .
+6 the phone number is 0016177208031 .
+7 i need to know your name , sir .
+8 hi , my name is Gary_Williamson .
+9 sir , tell me which type of room do you like ?
+10 quad is ok .
+11 ok , please tell me your arrival time .
+12 02/20/2015 .
+13 i see , please tell me your passport number , sir .
+14 ah , is 181919579 .
+15 ok sir , it's done .
+16 wonderful , thanks for your service .
+17 what is the client's name ?	Gary_Williamson	16
+18 when does the client check in ?	02/20/2015	16
+19 what is the passport number ?	181919579	16
+20 what is the room type ?	quad	16
+21 how many rooms does the client book ?	165	16
+22 what is the contact number ?	0016177208031	16
+1 good afternoon , this is hotel service center , what services you need ?
+2 yeah , i need to book a hotel .
+3 miss , tell me which type of room do you like ?
+4 ah , need suite room .
+5 what is your phone number , miss ?
+6 0016177337765 .
+7 miss , what date will you check in on ?
+8 book a hotel on 09/16/2013 .
+9 miss , passport number , thanks .
+10 the passport number 407700655
+11 how many hotel rooms do you want ?
+12 i need 185 rooms .
+13 i need to know your name , miss .
+14 Cathy_Henry .
+15 ok , it's done .
+16 ha , thanks for your service !
+17 what is the client's name ?	Cathy_Henry	16
+18 when does the client check in ?	09/16/2013	16
+19 what is the passport number ?	407700655	16
+20 what is the room type ?	suite	16
+21 how many rooms does the client book ?	185	16
+22 what is the contact number ?	0016177337765	16
+1 good morning , hotel service center , how can i help you ?
+2 hello , i need to reserve a hotel .
+3 sir , which type of hotel room to reserve ?
+4 double room .
+5 hmm sir , the number of rooms please .
+6 booking ten rooms please .
+7 ok , what is the time ?
+8 09/13/2017 is ok .
+9 please tell me your passport number , sir .
+10 the passport number is 358811330 .
+11 may i have your phone number , thanks .
+12 is 0016177714858 .
+13 what should i call you ?
+14 my name is Sean_Graham .
+15 ok , the hotel has been reserved for you .
+16 thanks very much
+17 what is the client's name ?	Sean_Graham	16
+18 when does the client check in ?	09/13/2017	16
+19 what is the passport number ?	358811330	16
+20 what is the room type ?	double	16
+21 how many rooms does the client book ?	ten	16
+22 what is the contact number ?	0016177714858	16
+1 good morning , hotel service center , how can i help you ?
+2 yeah , i'd like to reserve a hotel .
+3 we need to know your phone number , sir .
+4 0016178192860 , that is my contact number .
+5 how many rooms ?
+6 the number of roomss is six .
+7 passport number , sir ?
+8 810732774
+9 name , sir ?
+10 my name is Nick_Newton
+11 when are you arriving ?
+12 i'd like to check in on 07/21/2015
+13 please tell me which kind of room do you need , sir ?
+14 help me to reserve the quad room .
+15 ok , have reserved for you .
+16 hmm , thanks for you service .
+17 what is the client's name ?	Nick_Newton	16
+18 when does the client check in ?	07/21/2015	16
+19 what is the passport number ?	810732774	16
+20 what is the room type ?	quad	16
+21 how many rooms does the client book ?	six	16
+22 what is the contact number ?	0016178192860	16
+1 good afternoon , hotel reception , may i help you ?
+2 yeah , please make a reservation for me .
+3 when do you want to check in ?
+4 i will arrive on 04/28/2016 .
+5 which kind of room ?
+6 i need the triple: room .
+7 what's your phone number , sir ?
+8 hmm , my phone number is 0016172347775
+9 the number of rooms ? thanks .
+10 please help me to book 179 .
+11 we need to known your passport number , sir .
+12 550867487 is my number .
+13 hello , can i have your name ?
+14 Sam_Smith
+15 now you have been booked , sir .
+16 hmm , thanks for you service .
+17 what is the client's name ?	Sam_Smith	16
+18 when does the client check in ?	04/28/2016	16
+19 what is the passport number ?	550867487	16
+20 what is the room type ?	triple:	16
+21 how many rooms does the client book ?	179	16
+22 what is the contact number ?	0016172347775	16
+1 hello , i am the hotel receptionist , what services you need ?
+2 i need to reserve a hotel .
+3 how many hotel rooms do you want to reserve ?
+4 the number of roomss is two .
+5 what date will you check in on ?
+6 12/23/2018 is ok .
+7 what type of room would you like ?
+8 mini-suite room is okey .
+9 sir , passport number , thanks .
+10 517163695 is my number .
+11 hmm , the phone number ? thanks .
+12 hmm , my phone number is 0016178896648
+13 i need to know your name , sir .
+14 Lynn_Street .
+15 ok sir , it's done .
+16 thanks very much !
+17 what is the client's name ?	Lynn_Street	16
+18 when does the client check in ?	12/23/2018	16
+19 what is the passport number ?	517163695	16
+20 what is the room type ?	mini-suite	16
+21 how many rooms does the client book ?	two	16
+22 what is the contact number ?	0016178896648	16
+1 good afternoon , hotel reception , may i help you ?
+2 i would like to book a hotel .
+3 please tell me your passport number , sir .
+4 541290374 is my number .
+5 ok , please tell me your arrival time .
+6 08/21/2013
+7 which type of hotel room to book ?
+8 triple: is ok .
+9 please tell me your name , thanks very much .
+10 Hans_Williamson is my name
+11 sir , contact number ? thanks .
+12 0016178156200
+13 ok , how many rooms do you want ?
+14 i want to reserve two rooms .
+15 ok , have reserved for you .
+16 hmm , thanks for you service .
+17 what is the client's name ?	Hans_Williamson	16
+18 when does the client check in ?	08/21/2013	16
+19 what is the passport number ?	541290374	16
+20 what is the room type ?	triple:	16
+21 how many rooms does the client book ?	two	16
+22 what is the contact number ?	0016178156200	16
+1 hi , hotel reception , may i help you ?
+2 hello , i want to reserve a hotel .
+3 may i have your phone number ?
+4 the phone number is 0016178531093
+5 name ?
+6 the name is George_Short .
+7 ok sir , which type of room ?
+8 twin room .
+9 please tell me the guest's passport number , sir .
+10 569570652
+11 sir , when will you check in ?
+12 i plan to check in on 09/23/2015 .
+13 how many rooms , sir ?
+14 booking ten rooms please .
+15 we have reserved for you .
+16 ha , thanks for your service !
+17 what is the client's name ?	George_Short	16
+18 when does the client check in ?	09/23/2015	16
+19 what is the passport number ?	569570652	16
+20 what is the room type ?	twin	16
+21 how many rooms does the client book ?	ten	16
+22 what is the contact number ?	0016178531093	16
+1 hello , this is hotel booking center .
+2 i want to make hotel reservations .
+3 get it miss , your phone number ?
+4 the phone number 0016173591848 .
+5 how many hotel rooms do you want , miss ?
+6 i need three rooms .
+7 passport number , miss ?
+8 ok , the number is 766633645 .
+9 which kind of room , miss ?
+10 i want to book the quad room .
+11 when will you check in ?
+12 please reserve the hotel on 12/18/2017 .
+13 what is the user name ?
+14 ok , Alice_Nixon
+15 ok miss , it's done .
+16 good , thanks .
+17 what is the client's name ?	Alice_Nixon	16
+18 when does the client check in ?	12/18/2017	16
+19 what is the passport number ?	766633645	16
+20 what is the room type ?	quad	16
+21 how many rooms does the client book ?	three	16
+22 what is the contact number ?	0016173591848	16
+1 good afternoon , hotel reception , may i help you ?
+2 i need to book a hotel .
+3 may i have your name , please ?
+4 Chris_Cliff .
+5 what date will you check in on ?
+6 uh , the arrival time is 11/14/2014 .
+7 hmm , the number of rooms please .
+8 i want to reserve 149
+9 we need to know your phone number , sir .
+10 0016175263703 , that is my contact number .
+11 i see , please tell me your passport number , sir .
+12 267093800 , my passport number .
+13 which type of room , sir ?
+14 room type is suite .
+15 ok sir , it's done .
+16 wonderful , thank you .
+17 what is the client's name ?	Chris_Cliff	16
+18 when does the client check in ?	11/14/2014	16
+19 what is the passport number ?	267093800	16
+20 what is the room type ?	suite	16
+21 how many rooms does the client book ?	149	16
+22 what is the contact number ?	0016175263703	16
+1 good morning , this is hotel booking center , what help you need ?
+2 i need to make hotel reservations .
+3 hmm miss , the phone number ? thanks .
+4 the phone number 0016173761302 .
+5 which kind of room do you want to select ?
+6 i need to book the queen room .
+7 what is the name of the guest ?
+8 Jasmine_Smythe
+9 how many rooms you need ?
+10 107 rooms
+11 when would you like to arrival the hotel ?
+12 uh , the arrival time is 08/26/2018 .
+13 get it , what is your passport number , miss ?
+14 ah , is 566621994 .
+15 we have reserved for you , miss .
+16 thanks very much !
+17 what is the client's name ?	Jasmine_Smythe	16
+18 when does the client check in ?	08/26/2018	16
+19 what is the passport number ?	566621994	16
+20 what is the room type ?	queen	16
+21 how many rooms does the client book ?	107	16
+22 what is the contact number ?	0016173761302	16
+1 good morning , hotel service center , how can i help you ?
+2 i need to reserve a hotel .
+3 could you please tell me your name .
+4 Hank_Robinson
+5 how many hotel rooms do you want , sir ?
+6 39 rooms .
+7 sir , need your passport number , thanks .
+8 571543263 .
+9 sir , which kind of room do you need ?
+10 i need the queen room .
+11 please tell me your contact information sir .
+12 0016178633664
+13 when would you like to arrival the hotel ?
+14 01/21/2015
+15 ok , the hotel has been reserved for you .
+16 well , good , thanks very much .
+17 what is the client's name ?	Hank_Robinson	16
+18 when does the client check in ?	01/21/2015	16
+19 what is the passport number ?	571543263	16
+20 what is the room type ?	queen	16
+21 how many rooms does the client book ?	39	16
+22 what is the contact number ?	0016178633664	16
+1 good morning , hotel service center , how can i help you ?
+2 i would like to book a hotel .
+3 tell me your arrival time , thanks .
+4 i want to arrive on 12/21/2017 .
+5 miss , the guest's passport number is ?
+6 417336113 is my number .
+7 miss , may i have your name , please ?
+8 i am Xanthe_Wainwright .
+9 miss , the number of rooms ? thanks .
+10 i want to book 50 rooms .
+11 tell me which type of room do you like ?
+12 uh , queen
+13 hmm , the phone number ? thanks .
+14 my cell number is 0016177531107
+15 we have reserved for you .
+16 thanks very much .
+17 what is the client's name ?	Xanthe_Wainwright	16
+18 when does the client check in ?	12/21/2017	16
+19 what is the passport number ?	417336113	16
+20 what is the room type ?	queen	16
+21 how many rooms does the client book ?	50	16
+22 what is the contact number ?	0016177531107	16
+1 good afternoon , hotel reception , what can i do for you ?
+2 hello , i want to reserve a hotel .
+3 miss , can you please tell me your name ?
+4 Lucy_Long .
+5 could you tell me the passport number , miss ?
+6 208042849 is my passport number .
+7 miss , the arrival time is ?
+8 i want to arrive on 12/25/2016 .
+9 which kind of room ?
+10 ah , need king room .
+11 please tell me the number of rooms .
+12 i need four rooms .
+13 get it miss , your phone number ?
+14 my cell number is 0016178470377
+15 ok , it's done .
+16 thanks very much .
+17 what is the client's name ?	Lucy_Long	16
+18 when does the client check in ?	12/25/2016	16
+19 what is the passport number ?	208042849	16
+20 what is the room type ?	king	16
+21 how many rooms does the client book ?	four	16
+22 what is the contact number ?	0016178470377	16
