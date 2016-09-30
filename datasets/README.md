@@ -1,4 +1,4 @@
-### [COLING2016] Hierarchical Memory Networks for Answer Selection on Unknown Words ###
+### COLING2016-[Hierarchical Memory Networks for Answer Selection on Unknown Words](https://arxiv.org/abs/1609.08843) ###
 
 =======================================================================
 
@@ -41,4 +41,4 @@ Here are our released datasets for the paper accepted at COLING2016
 * Unseen Answers(Dev/Test): 357 (59.5%)/3,452 (57.5%)
 
 Note that:    
-(1). The personal information used in our examples and datasets throughout this paper is all synthetic and not real.  
+(1). The personal information used in our examples and datasets throughout this paper is all synthetic and not real.    

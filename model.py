@@ -299,7 +299,7 @@ class Model(ModelInit):
                 lowest_dev_err = len(dev_errors)
                 lowest_dev_epoch = epoch
             else:
-                if (epoch - lowest_dev_epoch) >= config.stop_iter_dev:
+                if ((epoch - lowest_dev_epoch) >= config.stop_iter_dev) and (dev_f1 > 0.1):
                     print 'Stop the iteration by dev evaluation.'
                     self.log_file.write('Stop the iteration by dev evaluation.' + '\n')
                     self.log_file.flush()
