@@ -163,7 +163,7 @@ class Model(ModelInit):
         batch_size_idx = np.array(batch_size_idx).reshape((sub_vocab_size, batch_size)).T
         batch_size_idx = batch_size_idx.reshape((sub_vocab_size*batch_size,))
         story_texts_flatten = story_texts.reshape((batch_size*sub_vocab_size,))
-        probas_word_mem_vocab = T.set_subtensor(probas_word_mem_vocab[batch_size_idx, story_texts_flatten],
+        probas_word_mem_vocab = T.inc_subtensor(probas_word_mem_vocab[batch_size_idx, story_texts_flatten],
                                                 probas_word_mem.reshape((batch_size * sub_vocab_size,)))
         return probas_word_mem_vocab
 
