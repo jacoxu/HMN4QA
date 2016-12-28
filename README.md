@@ -13,7 +13,7 @@ $bash run.sh
 Notice:    
 (1). In order to aviod the version mismatch of [Lasagne](https://github.com/Lasagne/Lasagne), we fork the verison_0.1 of Lasagne into this project.    
 (2). Some of MemN2N code is modified from one [Theano implementation by npow](https://github.com/npow/MemN2N).    
-(3). The code of data generator will be released soon.    
+(3). The source code of the data generator is released in the folder: ./datasets/data_generator/.    
        
     
     
