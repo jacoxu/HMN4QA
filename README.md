@@ -1,4 +1,4 @@
-### COLING2016-[Hierarchical Memory Networks for Answer Selection on Unknown Words](https://arxiv.org/abs/1609.08843)     
+### COLING2016-[Hierarchical Memory Networks for Answer Selection on Unknown Words](http://www.aclweb.org/anthology/C/C16/C16-1216.pdf)     
 
 =======================================================================    
 
